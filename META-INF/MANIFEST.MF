@@ -1,0 +1,2286 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android SignApk)
+
+Name: assets/data/sound/levelmax1.ogg
+SHA1-Digest: /kM8QFv+/AKqEgdQUMX41tAvo2k=
+
+Name: assets/data/Texture/Setings480854.ExportJson
+SHA1-Digest: vJNwZrj+C8f6y8KTnSk9Toh08DU=
+
+Name: assets/data/shooters/37.lx
+SHA1-Digest: psGuWHaoDxwg37tUw+LEkay6Eg8=
+
+Name: assets/data/Map/11easy.map
+SHA1-Digest: m5rGGDmp6Yh4WHDg9BZEBBe4FHc=
+
+Name: assets/data/shooters/user/liao5zuo.lx
+SHA1-Digest: GK/A9pQ4XPnxXVj1IYEAupr/080=
+
+Name: assets/data/animation/boss25.json
+SHA1-Digest: +JWCJAPeFuImboZocSvKQpv6yvI=
+
+Name: assets/data/Texture/Res/ui/select_rank.png
+SHA1-Digest: UsM+MJW9IVxNkstAuv9KSxuCTcw=
+
+Name: assets/data/sound/bgm_menu.ogg
+SHA1-Digest: eAp+2ce6F7ciEnBSp/CR7ozptR8=
+
+Name: assets/data/shooters/492.lx
+SHA1-Digest: yeMEiM/x0Biv+5tAKba08hIuBJk=
+
+Name: assets/data/animation/wing3.json
+SHA1-Digest: 6axpz5vDOiB/bG8gfMLpgXaxtos=
+
+Name: assets/data/Map/17hard.map
+SHA1-Digest: ViDId24CYZRYA087XR+t4gdHRgU=
+
+Name: assets/data/shooters/tihuan82.lx
+SHA1-Digest: f8wpTtZj2rNi6eBDksOX72s47DA=
+
+Name: assets/data/sound/levelmax2.ogg
+SHA1-Digest: JA0r3pO4ljYsnZl+a3fqm/6TTVI=
+
+Name: assets/data/shooters/456.lx
+SHA1-Digest: aS0EKshfu0Mei+r/9gec4IclWHM=
+
+Name: assets/data/Texture/Res/ui/settings.plist
+SHA1-Digest: dj09Zfks8G8U9bIQzM8DkfyQskY=
+
+Name: assets/data/shooters/446.lx
+SHA1-Digest: 65R3Qm4FRcm4B0ut6VcW2u3tims=
+
+Name: assets/data/shooters/103.lx
+SHA1-Digest: I5pvOCqlnsBBJdVjdnk1Zo4m7KI=
+
+Name: assets/data/shooters/tihuan84.lx
+SHA1-Digest: 5oqAezIiwAvXhEa3X5ofoZfNiX4=
+
+Name: assets/data/shooters/43.lx
+SHA1-Digest: bHy+LpVj/Z2x2vms513wQcXkRdI=
+
+Name: assets/-578916761/2140853794
+SHA1-Digest: 2wkUU+YGeN2RLqQsRZkmWAUZ+Dk=
+
+Name: assets/data/shooters/boss1normal.lx
+SHA1-Digest: YR3d8QKDfhi/Wz034hSzqKb7NSM=
+
+Name: assets/data/shooters/boss16.lx
+SHA1-Digest: +tlo/bY5eu1kq/kq4gZLobvdpTk=
+
+Name: assets/data/particle/p0/user_hited.p
+SHA1-Digest: 1cNB96pRStH42lEFx//yWFRn3ns=
+
+Name: assets/data/Texture/Res/story.png
+SHA1-Digest: rYWeICtRBVW7Hbf0SNcenIjaPvY=
+
+Name: assets/data/Texture/Res/ui/TextAtlas/a25.png
+SHA1-Digest: BhBWEx5/obA/oO7szP2EL060hlw=
+
+Name: assets/data/shooters/zhongwu.lx
+SHA1-Digest: OKs4KlbFc0qJ4HqlBJwLqNwq2bE=
+
+Name: assets/data/shooters/b71.lx
+SHA1-Digest: +GVrr4YELuef82szQCj98CDrsvc=
+
+Name: assets/data/sound/mission_complete.ogg
+SHA1-Digest: a/n0TT0JduPUleE4FyIvXDlA84A=
+
+Name: assets/data/shooters/baoxian.lx
+SHA1-Digest: h92VnUmf9OXnwaCZJolC+VPh05Y=
+
+Name: assets/data/shooters/Fensan.lx
+SHA1-Digest: rF6NXCWhjgaSjPX+RKu/30W2ZuQ=
+
+Name: assets/data/animation/bullet03.json
+SHA1-Digest: 3RICbfgWskVp+h7G+OQTmW4p0rw=
+
+Name: assets/data/shooters/boss10normal.lx
+SHA1-Digest: LvwUwOlu/bwdhQ4yz27ZwSX9RvU=
+
+Name: assets/data/shooters/boss2.lx
+SHA1-Digest: 2VcM1XTRgL/7i7X8/BC039ZOSgE=
+
+Name: assets/data/particle/p0/fireball_boom.p
+SHA1-Digest: rpWUy8e1Zeg6i2PoQJL1TeT6qGA=
+
+Name: assets/-1164890103
+SHA1-Digest: IBET4B9Cwogtoksv7HfBu0jh1gc=
+
+Name: assets/data/shooters/101.lx
+SHA1-Digest: vEIjaOZl7BE1hx3D1ws8IZ9meQA=
+
+Name: assets/data/animation/bullet06.json
+SHA1-Digest: aEFMVuEUQk1EK4vbb1M0sNTTywk=
+
+Name: assets/data/animation/bullet45.json
+SHA1-Digest: MyoiNAxzKIhkQQKia/bD7EU6TeA=
+
+Name: assets/data/animation/huoli03.json
+SHA1-Digest: ho+xKgjPbyzH4TWvpt9KDqe8Ees=
+
+Name: assets/data/animation/jiaxie04.json
+SHA1-Digest: g84RWFinaJcWt7R+w5cPOJpOj2g=
+
+Name: assets/data/Texture/Res/scene/bg5/clouds.png
+SHA1-Digest: Veh3B9RHfUXwATVQi27Ae2nPAuQ=
+
+Name: assets/data/animation/bullet71.json
+SHA1-Digest: fEkH2DXt83xpGBuLVGjSyb6IFkQ=
+
+Name: assets/data/Map/12.map
+SHA1-Digest: nZPtxEhyoVd8hpMVFXIhr+Jk+cc=
+
+Name: assets/data/Map/06easy.map
+SHA1-Digest: lKklj3T+R9VMDVMVdsWhfdmZNXI=
+
+Name: assets/data/Texture/zhujiemian600800.ExportJson
+SHA1-Digest: fU/tAsr7o/1Am4SkcWVgq+ri7Nc=
+
+Name: assets/data/db/charging.txt
+SHA1-Digest: K6m/4jWBIhoqneJ4GNfSmLp0hBg=
+
+Name: assets/ecode_64
+SHA1-Digest: n9lHwjdTPPeEoozKdM/bmdykB78=
+
+Name: assets/data/shooters/479.lx
+SHA1-Digest: Ts8Mry3it+nedo8zxdekfJLrYLA=
+
+Name: assets/data/shooters/tihuan118.lx
+SHA1-Digest: HY6NRVx8elxTVaIdT8k8X431Si8=
+
+Name: assets/data/Texture/Res/player1.plist
+SHA1-Digest: bJdOxN0FT9oATc4d1tlYd/gKHp0=
+
+Name: assets/data/Map/bonus2.map
+SHA1-Digest: UISyRi8mZKHiI/VlBElr2qXulms=
+
+Name: assets/data/animation/zhuanhuan05.json
+SHA1-Digest: UWvKzfPF3RuXOCD1nOf4TipMg/M=
+
+Name: assets/data/Map/04easy.map
+SHA1-Digest: 3xqDiRJgN7FUPPVH4RKP4EwTxK8=
+
+Name: assets/data/shooters/tihuan117.lx
+SHA1-Digest: Be3bFLXVDErJ6V3NsakdV+HrP3E=
+
+Name: assets/data/Texture/Res/scene/bg4/bg.png
+SHA1-Digest: 6xLpA3Jb6olSinjny4q/J635cA8=
+
+Name: res/drawable-hdpi-v4/ltad_promotion_icon_2.png
+SHA1-Digest: vy4OyiEj7bhxlTCsJmIyDYnzSMs=
+
+Name: assets/data/Texture/Res/ui/zanting.plist
+SHA1-Digest: b42jvLwD0H7QGKOBsRVpGVsu21s=
+
+Name: assets/data/shooters/482.lx
+SHA1-Digest: VO6E4nsZPN8wMCAR2QmMfflPLOY=
+
+Name: assets/data/animation/bullet62.json
+SHA1-Digest: IbSbva2Tc55EnS3wpzi5VOObeV0=
+
+Name: assets/data/Texture/Res/diji02.png
+SHA1-Digest: Zlue7xQZ293KpUYXKhEjBDDzOKU=
+
+Name: assets/data/Map/15hard.map
+SHA1-Digest: AfN41IeuxQo14KYZ5LdSCLHgdPs=
+
+Name: assets/data/Texture/Res/boss28.png
+SHA1-Digest: S+UKksISLZzo+FQkQV5h0Bj3Nb8=
+
+Name: assets/data/Map/07easy.map
+SHA1-Digest: rvNlRoYidzuiXo4WmLoWNdlJSso=
+
+Name: assets/data/Texture/Res/ui/setname.png
+SHA1-Digest: 60+1vRCinPrlFfxQrrzX7PMXSE4=
+
+Name: assets/data/particle/p0/diji06.p
+SHA1-Digest: PZ5yqzLu9h3HRGLM0NYCpaMsBGQ=
+
+Name: assets/data/animation/bullet09.json
+SHA1-Digest: H4jSGdVzgPufTETPNDb5fZrRf0M=
+
+Name: res/drawable-hdpi-v4/ltad_promotion_icon_3.png
+SHA1-Digest: UqWG7Ub4xH9dTPcVywFOmHVbHu0=
+
+Name: assets/data/Texture/Res/scene/bg2/bg.jpg
+SHA1-Digest: kC4p8VrNpfGukabPs6f90XwnYww=
+
+Name: assets/data/animation/BOSS29_2.json
+SHA1-Digest: 1XcRgs+gEcBw6JxPZW2q7p3HQoE=
+
+Name: assets/data/animation/bullet67.json
+SHA1-Digest: 58tVOkvVZy9suC5Da5IyK2cKxwU=
+
+Name: assets/data/shooters/484.lx
+SHA1-Digest: MKTEaIg6bzxsZvWY9TSsTjNTQOc=
+
+Name: assets/data/animation/bullet41.json
+SHA1-Digest: 5KY/TIxk5MrmISKYr2mIK7q3RIg=
+
+Name: assets/data/sound/bs1.ogg
+SHA1-Digest: 1v5gKEIOYeVa+Kq3g7F+zcGZSzQ=
+
+Name: assets/data/animation/bullet64.json
+SHA1-Digest: pMa+csm7imtNWV7GKIP7yqYS3MM=
+
+Name: assets/data/Texture/Res/boss17.plist
+SHA1-Digest: nBV3a/Jrsc971GTLozsOpevzO3A=
+
+Name: assets/data/Texture/fight600800.ExportJson
+SHA1-Digest: MdO9YMU+oiomq7df9xPFF48TZBU=
+
+Name: assets/data/Texture/Res/transform2.plist
+SHA1-Digest: DZaPu2EataGqpRbrG7M0MpVMNCE=
+
+Name: assets/data/animation/bullet46.json
+SHA1-Digest: tfMqonwTEjkzalljb/ec9005ViI=
+
+Name: assets/data/shooters/boss1hard.lx
+SHA1-Digest: IZCK9on9ig238/GH6ahAwI7VlXs=
+
+Name: assets/data/sound/button.ogg
+SHA1-Digest: ARg0j35Scbbltq9AVYNFwLdyHFw=
+
+Name: assets/data/animation/bullet17.json
+SHA1-Digest: pV2rBoh3SIZCO1Archid/rIeQtE=
+
+Name: assets/data/Map/05normal.map
+SHA1-Digest: M5QPT5By9wBRTadlHUVdyhif0/w=
+
+Name: assets/data/shooters/tihuan68.lx
+SHA1-Digest: ZzTWaZD2jpwRPNg4lJWmzb4j86Y=
+
+Name: assets/data/particle/p0/boom_s.p
+SHA1-Digest: XekoGOQ/E80A9EeaW1Bn1VOCib0=
+
+Name: assets/data/Texture/Res/boss25-ef.plist
+SHA1-Digest: 6YaKohBjTie2tJknn4y2z3qLbCw=
+
+Name: assets/data/Map/16hard.map
+SHA1-Digest: ztyFJ0qld3fwCuno+Gi2DfXFlt8=
+
+Name: assets/data/shooters/tihuan81.lx
+SHA1-Digest: /QfPGlk5JKp3LRqdVJJXpAmbd2g=
+
+Name: assets/data/Texture/Res/scene/dec0/1.png
+SHA1-Digest: Vs9DwPz9qwN8uQLUpgRAuoXEpWA=
+
+Name: assets/data/Texture/Res/boss25-ef.png
+SHA1-Digest: UzzVTOrcAE9e7L8itLfcL85FueM=
+
+Name: assets/data/shooters/68.lx
+SHA1-Digest: 5P84NmOlW/VAHGRiMoLXQ+36nvw=
+
+Name: assets/data/Texture/Res/ui/TextAtlas/a14.png
+SHA1-Digest: df2RZjJ8gMCytouKOmpZu44MAJA=
+
+Name: assets/data/particle/p0/super.p
+SHA1-Digest: 9yJE3lWANoMIi3Pc5z4JsnNgMGY=
+
+Name: assets/data/particle/p0/goods.p
+SHA1-Digest: EKenHbZjrBjrBv+OjoedX1O1OfA=
+
+Name: assets/data/Texture/zanting480854.ExportJson
+SHA1-Digest: GQa1wtO7vqfuFQ+QgXiu982p7O4=
+
+Name: assets/data/animation/bullet47.json
+SHA1-Digest: zx4JYw11C6N8Vjo5m8c0E7wBqAs=
+
+Name: assets/data/animation/bullet56.json
+SHA1-Digest: djqLwDPjdmqNC4StzugyhLRvATE=
+
+Name: assets/data/Map/07.map
+SHA1-Digest: 6H3DL+zdFNQXZzvQWkHW4dd76Xo=
+
+Name: assets/data/shooters/boss9normal.lx
+SHA1-Digest: 6JZgW/JStKmjoKBsJffKD6LO058=
+
+Name: assets/data/particle/p0/lightball2_jz.p
+SHA1-Digest: NZYw/fpeRICRo/julhUcIPS0TGM=
+
+Name: assets/data/shooters/45.lx
+SHA1-Digest: GibBNwe7lupRJPWMlxv0mukfdcc=
+
+Name: assets/data/shooters/tihuan102.lx
+SHA1-Digest: Vyd9pSs9AzhOuBBG0IubHC0wVRI=
+
+Name: res/drawable-hdpi-v4/ltad_promotion_icon_4.png
+SHA1-Digest: i2VELtw2lSNlMetRjs/OKuZfosw=
+
+Name: assets/data/shooters/boss15hard.lx
+SHA1-Digest: WokL9ZnLgBXF6CPgJlTB/LcLMTM=
+
+Name: assets/data/particle/p0/bossdeath.p
+SHA1-Digest: 9AsXGKVHz6OMT6FGHzBys0Waekc=
+
+Name: assets/data/Texture/Res/bossair1.plist
+SHA1-Digest: gXTNm/RVcMzvjYXbIre6IoZlROg=
+
+Name: assets/data/animation/bullet14.json
+SHA1-Digest: Pld76/rPW4Gwb9CcpyS04wmIpjI=
+
+Name: assets/data/particle/p0/lifeup.p
+SHA1-Digest: CTcCtSeE2bwjQ9wIdynX88EIw3c=
+
+Name: assets/data/shooters/83.lx
+SHA1-Digest: s9FSQXrOAuzZVH1owUDh1VhEplM=
+
+Name: assets/data/shooters/463.lx
+SHA1-Digest: o+qqTzJUFSLVTgpw4crnJr5JHPg=
+
+Name: assets/data/Map/16.map
+SHA1-Digest: biFheCFA/NV0RJiVgRtlQ5OX8I4=
+
+Name: assets/data/shooters/boss16easy.lx
+SHA1-Digest: cIRqir64kOPE+ZHi6xCXOUs0qN8=
+
+Name: assets/-578916761/-1587619630
+SHA1-Digest: itFHl0ALcXBsldX5zLGanQEIa04=
+
+Name: assets/data/Texture/Res/ui/RankUp.plist
+SHA1-Digest: Km6VvdEDUMMRRnI1it0av8v48OA=
+
+Name: assets/data/Texture/guanqiaxuanze480800.ExportJson
+SHA1-Digest: Gpeg2rDa74rDCW8vzMld2DTvNQE=
+
+Name: assets/data/Texture/Res/bossair4.png
+SHA1-Digest: 8cUEAvB+BMh9PSLxKEeCSka5FMw=
+
+Name: assets/-578916761/-1320530902
+SHA1-Digest: ZGydtaJ3KP+tjLAZb35JSoZyPyM=
+
+Name: assets/data/particle/p0/transforming5.p
+SHA1-Digest: 7vni1l2PzXFJS7V4Gh/r+yKZrxw=
+
+Name: assets/data/Texture/Res/ui/play.png
+SHA1-Digest: F3V9sfVbyT9fwNtksBxnS2H88cI=
+
+Name: assets/data/particle/p0/hited.p
+SHA1-Digest: 4FDOqhBvDctjCWBGkoKRANULZYg=
+
+Name: assets/data/Texture/Res/sucai.plist
+SHA1-Digest: UY73rEBq2HueL/gyHqu+da9nuds=
+
+Name: assets/data/animation/bullet10.json
+SHA1-Digest: nMBPucyBFWyISTc8Eo65aXL9DiA=
+
+Name: assets/data/shooters/tihuan111.lx
+SHA1-Digest: /QfPGlk5JKp3LRqdVJJXpAmbd2g=
+
+Name: assets/data/shooters/b121.lx
+SHA1-Digest: Y173NiKHEao+aAudXWxpVXCJzcI=
+
+Name: assets/data/shooters/470.lx
+SHA1-Digest: /d6KqOmgU5zSIVCpCVDw/e/sBVA=
+
+Name: assets/data/animation/bullet40.json
+SHA1-Digest: J2UvsPfwyWLDrbphkBlxhEWZwFA=
+
+Name: assets/data/Map/09easy.map
+SHA1-Digest: rXhWrNsrYxt0G0Zo2p9BTTduVJc=
+
+Name: assets/data/Texture/fight533800.ExportJson
+SHA1-Digest: msiSMel4dV0oUcJZ8ljzdywiCYc=
+
+Name: assets/data/Map/1.json
+SHA1-Digest: tsy0CZWqKohWAf37NBVTOIhtijA=
+
+Name: assets/data/animation/jinbi09.json
+SHA1-Digest: txyUaY2TIer+HqUX4XvDTbZSbbk=
+
+Name: assets/data/Texture/Res/ui/meinvchutu.plist
+SHA1-Digest: bx9srgvw91l+xvJ90ITldvf0sWY=
+
+Name: assets/data/shooters/tihuan105.lx
+SHA1-Digest: YKNtaoMHkCglQDA/MtmnWWGx1b8=
+
+Name: assets/data/shooters/465.lx
+SHA1-Digest: M9M9v9xXY3k4TLVEFYRhdgmfF44=
+
+Name: assets/data/shooters/user/liao2.lx
+SHA1-Digest: AN01M/8druDwwR2iDet6vdaFLfw=
+
+Name: assets/data/animation/jinbi08.json
+SHA1-Digest: InL9Mqd707ZfI3OG4F19DhxeeBU=
+
+Name: assets/data/Texture/Res/transform3.plist
+SHA1-Digest: ysq4E6l3PWERLLIE+e4EMpXz8/A=
+
+Name: assets/data/shooters/34.lx
+SHA1-Digest: hc6TfZNKKui+dg5CueZI1/75QZ8=
+
+Name: assets/data/Map/15.map
+SHA1-Digest: XqrsoJnSb4l0UiETnYirb7vFo/A=
+
+Name: assets/data/shooters/kuai.lx
+SHA1-Digest: xmX4hEb9vo5RZP4BrvvFtdGfKN4=
+
+Name: assets/data/animation/list.txt
+SHA1-Digest: TvP+uNgCIelenbBxIvtt6kIzTSo=
+
+Name: assets/data/shooters/tihuan104.lx
+SHA1-Digest: Q/K5ikqpqYh1PghHqOwW4mg+YkA=
+
+Name: assets/data/shooters/tihuan103.lx
+SHA1-Digest: gVaGH5m7zi7tsvqTWq9T19dUZ0Q=
+
+Name: assets/data/shooters/b51.lx
+SHA1-Digest: OIREwvHTfRCDT0tO3N5ewHd6ndw=
+
+Name: assets/data/animation/bullet02.json
+SHA1-Digest: F4goBQQ4TRDj0DeEXuc8WR/MzSY=
+
+Name: assets/data/particle/p0/useshield.p
+SHA1-Digest: nfkrJ4+1THaVgVSQ8/YB+TEfDj4=
+
+Name: assets/data/shooters/464.lx
+SHA1-Digest: 2aVe+4hokRvYcXIkkbI8NlQ4L+s=
+
+Name: assets/data/animation/BOSS26.json
+SHA1-Digest: vVQTn4fyXjlyKIHhZgqmziaGjJM=
+
+Name: assets/-578916761/2113262499
+SHA1-Digest: 5dlYFMgxq9/10v4EZrz5P2INJ9c=
+
+Name: assets/data/animation/BOSS8.json
+SHA1-Digest: 3zystGKdTAjE8rswCYboDdbNSnw=
+
+Name: assets/data/animation/bullet50.json
+SHA1-Digest: +/iNe+dYZOvmNLo3f2e3pRgZ2pI=
+
+Name: assets/-578916761/1748877102
+SHA1-Digest: qs268j+q067LtpTfGt+TvJvJP9E=
+
+Name: assets/data/particle/p0/boom_m.p
+SHA1-Digest: a+imAo18HbUUzOOfmNAehakiGVY=
+
+Name: assets/data/Texture/Res/sparks1.png
+SHA1-Digest: eOjEKqDFHJ9859xKmpbjmpc3mso=
+
+Name: assets/data/animation/bullet53.json
+SHA1-Digest: 7WTCygzshiCFIbyTc0tK7gP2YG8=
+
+Name: assets/data/shooters/tihuan87.lx
+SHA1-Digest: Be3bFLXVDErJ6V3NsakdV+HrP3E=
+
+Name: assets/data/shooters/tihuan86.lx
+SHA1-Digest: eohZTIzEmUk6BdxeOVoiraxNgac=
+
+Name: assets/data/animation/bullet33.json
+SHA1-Digest: rEktmiCrawm68OcBLKBU5oSo5HM=
+
+Name: assets/data/shooters/87.lx
+SHA1-Digest: aYPgZQa8awMatIPac0rQ1kzZs98=
+
+Name: assets/data/shooters/91.lx
+SHA1-Digest: AHmRfioEAGPw7sl6+Pb4b3Es5og=
+
+Name: assets/data/shooters/32.lx
+SHA1-Digest: e8vI9MXC4M55OrjmnfMytReCV/I=
+
+Name: assets/data/Map/23.map
+SHA1-Digest: ST7ECyNPEO3v0GnItIurqMDNi4M=
+
+Name: assets/data/Texture/tongguanjiangli600800.ExportJson
+SHA1-Digest: AFh+hlyGPqVXytSI8tep2vkRsqw=
+
+Name: assets/data/shooters/89.lx
+SHA1-Digest: /iwW4xFMCoNWUCzR0tTWGFf2x2w=
+
+Name: assets/data/shooters/72.lx
+SHA1-Digest: fMccMK8JAUucgv+N4kT0b9jBkFE=
+
+Name: assets/data/shooters/tihuan67.lx
+SHA1-Digest: TkoyiKrlCKuRXhNsdF5iiq4IyYQ=
+
+Name: assets/data/particle/p0/hurt.p
+SHA1-Digest: V/Gcp74lwFEZ63QgNkppXo8PcRM=
+
+Name: assets/data/Texture/Res/ui/meinvchutu.png
+SHA1-Digest: BqkCwCK4w1QNYuhT/TfbAD1vcHw=
+
+Name: assets/data/shooters/58.lx
+SHA1-Digest: H1EbIW2OF+EMKdNhkk6TIrwhYQ0=
+
+Name: assets/data/shooters/tihuan93.lx
+SHA1-Digest: ozfzVYgSo78m1B0Ez+ICbOJbZp0=
+
+Name: assets/data/Texture/Res/liaoji2.png
+SHA1-Digest: eoGhlZbPDMmTeAXhMSzcOzN8glA=
+
+Name: assets/data/shooters/tihuan96.lx
+SHA1-Digest: 5Qo9dFTxEPYElhXUThnjsdKgXDM=
+
+Name: assets/data/sound/mission_start.ogg
+SHA1-Digest: 0ghSqhBhGVT/yRjOJFJ8Jbose3o=
+
+Name: assets/data/shooters/tihuan61.lx
+SHA1-Digest: 5bInRXKwYVFrXBnpHTYCTFqozcA=
+
+Name: assets/data/Texture/Res/liaoji5.png
+SHA1-Digest: Feqv5gDJ5l/veYgDzI7snPdoHTA=
+
+Name: assets/data/shooters/boss21.lx
+SHA1-Digest: ZFPqUXgvknJP3Yyiq5Z0YVMbnQY=
+
+Name: assets/data/shooters/36.lx
+SHA1-Digest: 4QdVWlAswXut7MkqOhTpgCiXiHs=
+
+Name: assets/data/Texture/Res/bossair2.png
+SHA1-Digest: TQ0lBr1oeB2xhzrpKU2cSVboK8s=
+
+Name: assets/data/shooters/boss22.lx
+SHA1-Digest: yMGjGBjcsivaywdNmJuxt+ZExiY=
+
+Name: assets/data/Map/18hard.map
+SHA1-Digest: +HV/QPwFB/c0v0KTp2CV23NyjHg=
+
+Name: assets/data/Texture/Res/scene/bg1/bg.png
+SHA1-Digest: j0mdwEnMl74Co6LMJ9jgyinFrjw=
+
+Name: assets/data/Map/10easy.map
+SHA1-Digest: dzsDsLWuzrdLwod8aTUnROW19wM=
+
+Name: assets/data/Texture/Res/ui/guanqiatongji.png
+SHA1-Digest: bVcVyFgsjimNP1p6R/mQ3pnFAAM=
+
+Name: assets/data/shooters/b1.lx
+SHA1-Digest: iU8ITNgmI0zN+zmgZNPxZXO4Zzw=
+
+Name: assets/data/Texture/BuyBox480800.ExportJson
+SHA1-Digest: 0tOxUmiaWauHjvCFobIjsdui+EM=
+
+Name: assets/data/particle/p0/lightball1_jz.p
+SHA1-Digest: +31ZAk8TUFnJSQvI4paRiygdRto=
+
+Name: assets/data/shooters/b61.lx
+SHA1-Digest: 3mrVvDxdFC/vbTgkazJek0j4yHo=
+
+Name: assets/data/Texture/Setings533800.ExportJson
+SHA1-Digest: m3NGuCVRLmfDybsbSPiY6AfvjSk=
+
+Name: assets/data/Texture/Res/scene/bg5/fog.png
+SHA1-Digest: tsgvwR86uRb9JhRvPLq3gIdGf58=
+
+Name: assets/data/animation/bullet32.json
+SHA1-Digest: IWj4LTOWzph1k9OM4Ur7yX9gFiw=
+
+Name: assets/data/animation/bullet21.json
+SHA1-Digest: XXc1p8Dfe4GfxV+RKbvj7fUUwoA=
+
+Name: assets/-578916761/2087309649
+SHA1-Digest: m1/7W3GT1wBDmUNeVkLKZhudPho=
+
+Name: assets/data/animation/bullet04.json
+SHA1-Digest: +zWIHJZDWNqGesIvXX9s4uHVpFE=
+
+Name: assets/data/shooters/boss20.lx
+SHA1-Digest: Ean/tuveRLM1d/+/jcLeWYKa3oI=
+
+Name: assets/data/shooters/48.lx
+SHA1-Digest: 2Dw9qkxvx0iB7+gcN6Ny2AKY1P8=
+
+Name: assets/data/Texture/Res/boss10.plist
+SHA1-Digest: 2aQUzc7H8kaYLaasb1K8rv48ErM=
+
+Name: assets/data/shooters/105.lx
+SHA1-Digest: VWHT030giWKFnnyvccrCntvEfUs=
+
+Name: assets/data/shooters/gen3.lx
+SHA1-Digest: VK89BMcOX0t8wo6/mPWVH9JvCoc=
+
+Name: assets/data/Texture/Res/ui/fight.plist
+SHA1-Digest: gk9aouRDzEHBnPvCgc9Sr3Y8REw=
+
+Name: assets/data/shooters/tihuan97.lx
+SHA1-Digest: dtQYu1hKWkrcnJX/H4gCs/K8RNU=
+
+Name: assets/data/shooters/tihuan69.lx
+SHA1-Digest: kFOkbm68h66WsD424ntLauMX4nI=
+
+Name: assets/data/Map/17easy.map
+SHA1-Digest: UJ5GDTaq+JaBTihJH/T0mdwspXg=
+
+Name: assets/data/Texture/zanting600800.ExportJson
+SHA1-Digest: 7KsJc/h/zFTcTbax6VEy2A8xzgY=
+
+Name: assets/data/Texture/Res/scene/bg1/fog.png
+SHA1-Digest: n+R+6/TL7CJ1NFuiROmBK6xKYTw=
+
+Name: assets/data/shooters/b91.lx
+SHA1-Digest: qt4UZYD/FMR3fOFaiDk9aOh+zxE=
+
+Name: assets/data/shooters/65.lx
+SHA1-Digest: Ib21gKMy8FE6L5qrCoAyA3GPTe8=
+
+Name: assets/data/Texture/Res/scene/dec3/8.png
+SHA1-Digest: tMbQJWGRFmSo9JaXb61+jd9ziKc=
+
+Name: assets/data/shooters/zhongsi.lx
+SHA1-Digest: Ymdev5t0/T705lMD2qvJeTTJIlM=
+
+Name: assets/data/Texture/zhujiemian533800.ExportJson
+SHA1-Digest: mt2OBVLjQKFdtBMtiFb/pugzs1c=
+
+Name: res/drawable/sprinkle_halfscreen_bg_2.9.png
+SHA1-Digest: xLBh2Qw8ZhfZzweSkerFJX60jX8=
+
+Name: assets/data/animation/BOSS10.json
+SHA1-Digest: Hdjxzyc9CuvfV4PSYwHfOCNBe8c=
+
+Name: assets/data/shooters/boss13.lx
+SHA1-Digest: o4DoJS1oicSgmxbeRV1eH2GFdcc=
+
+Name: assets/data/particle/p0/bombup.p
+SHA1-Digest: hOzIF9NL1KFLO4JoddP/sBZX78I=
+
+Name: assets/data/Map/3.json
+SHA1-Digest: TlZQV3n9Wh3us7YpzjEN34R+dhE=
+
+Name: assets/data/shooters/boss11normal.lx
+SHA1-Digest: O8hZWu5/is/qxQV8T0AUxnEDEiI=
+
+Name: assets/data/Texture/Res/bossair10.png
+SHA1-Digest: pFfjMdNk0AaQUqmfID5pCxvk3gA=
+
+Name: assets/data/shooters/42.lx
+SHA1-Digest: 5Wg+8ydU7F8uP6dwTTvEfD00ZHc=
+
+Name: assets/data/Texture/Res/story.plist
+SHA1-Digest: CcI6RoPq7h2Knqn+DKRClMwD/t0=
+
+Name: assets/data/Texture/Res/ui/settings.png
+SHA1-Digest: VFatHBBU0hXZvmnFN+nXnW27W7s=
+
+Name: assets/-489401912/1537873501
+SHA1-Digest: 1ErglXp++l8O5zHyIU2xX3cKfH8=
+
+Name: assets/data/Map/25.map
+SHA1-Digest: HrUgUNeQnRF7XRLqlHqcdsZN04I=
+
+Name: assets/data/Texture/Res/ui/jixietu.png
+SHA1-Digest: ZtfDxOYcLAwLZ0g8rOEhPfdONZc=
+
+Name: assets/data/animation/bullet01.json
+SHA1-Digest: gnX4Qv8GLJzvFRpbj/LaapZ453w=
+
+Name: assets/data/shooters/tihuan106.lx
+SHA1-Digest: k+6wBNtwPCruqDh2RPaWzOXxw/g=
+
+Name: assets/data/Texture/Res/ui/TextAtlas/a23.png
+SHA1-Digest: 46fADD2mIljld+ttbGnquFhetCM=
+
+Name: assets/data/shooters/473.lx
+SHA1-Digest: 5u8jAlTsXUL9g/DFjvdRucnfi34=
+
+Name: assets/data/Map/03hard.map
+SHA1-Digest: ded17TLN8EgjxJR3QZErRLkgl8k=
+
+Name: assets/data/particle/p0/laser_hited_red2.p
+SHA1-Digest: WA0GUAR2fOPKricKHHWUdx0vEVY=
+
+Name: assets/data/Texture/ranking480800.ExportJson
+SHA1-Digest: MC3D/4koy8F574Wgr3IGxkiKNX0=
+
+Name: assets/data/Map/05easy.map
+SHA1-Digest: ZR89IEpRAavcjPEg/vn8cVVszsU=
+
+Name: assets/data/animation/BOSS27_2.json
+SHA1-Digest: YCA3OAyYkZlTXczHL4bbnFu8wy8=
+
+Name: assets/data/Texture/Res/scene/dec1/3.png
+SHA1-Digest: s4fHikAxBZFCooe0RTk/YDWNEVQ=
+
+Name: assets/data/shooters/boss2hard.lx
+SHA1-Digest: QaoJtOhAA5Ebz0DF3jyxswvq35o=
+
+Name: assets/data/particle/p0/list.txt
+SHA1-Digest: e4PvYCWDaDz/t+KhwEMAswXLAp8=
+
+Name: assets/data/shooters/boss18hard.lx
+SHA1-Digest: 7Bbkz509WnQzkxTAKDFDn4hM2Sg=
+
+Name: assets/data/Texture/Res/ui/denglu.png
+SHA1-Digest: YZd5a9WKyIOc37qvABChQzdS184=
+
+Name: assets/data/shooters/boss2normal.lx
+SHA1-Digest: QRZ/BsMw/slMkbBoaRgE4L4UKJY=
+
+Name: assets/data/shooters/boss3hard.lx
+SHA1-Digest: JE/j/Cy94rWgqBOXA2ITJpAQEo0=
+
+Name: assets/data/shooters/49.lx
+SHA1-Digest: lMOhCPqAYBC265JcBqTEPPTlrFg=
+
+Name: assets/data/Texture/Res/scene/bg2/bg.png
+SHA1-Digest: W5kNOkY2MErvEXAbOpl71pncIA8=
+
+Name: assets/data/Map/2.json
+SHA1-Digest: xnGnhCf3bgCB2f5sQ+7UwvHBhAw=
+
+Name: assets/data/Map/01hard.map
+SHA1-Digest: oRYvI4ak8NpbbU+Fv1XwtunH2QA=
+
+Name: assets/data/shooters/474.lx
+SHA1-Digest: 5at/1X05Bl93FOMRYqCrel5ZRC4=
+
+Name: assets/data/Texture/Res/boss29.plist
+SHA1-Digest: QP7XkYl6HPMJvwBFuXITWBA7asA=
+
+Name: assets/data/Texture/Res/sucai.png
+SHA1-Digest: S43RodLWxU/N7GSsSxNYA1F2F7s=
+
+Name: assets/data/Map/bonus3.map
+SHA1-Digest: 9A2+2ikTgS7I9fVFgLU87HyrlQk=
+
+Name: assets/data/shooters/boss1.lx
+SHA1-Digest: Rj4RfZlTSfaieR0xI6eAmspncxc=
+
+Name: assets/data/particle/p0/boom_c.p
+SHA1-Digest: fLZqVDQKrhTHfv5FD/3kBqTYw8I=
+
+Name: AndroidManifest.xml
+SHA1-Digest: VpI3U5ufoGw9/fxp6CuP/Pxuxkw=
+
+Name: assets/data/animation/BOSS30.json
+SHA1-Digest: PFm8NbHnKlM8QTcDkzOhxMCwcpU=
+
+Name: assets/data/sound/bullet2.ogg
+SHA1-Digest: 0YTu8ovGwzuPFFUjyi4IXQge3wk=
+
+Name: assets/data/Texture/Res/ui/fight.png
+SHA1-Digest: qEbRmk3D0bA7kLLb6/QcqkgTWmw=
+
+Name: assets/data/shooters/73.lx
+SHA1-Digest: oadHg6QlHTwhQCu6jeXpgU5OFzM=
+
+Name: assets/data/animation/bullet11.json
+SHA1-Digest: IpnPIz0rpyNxrxxxvgKDdQNuZnM=
+
+Name: assets/data/shooters/user/liao1you.lx
+SHA1-Digest: JSzjsKwlOep51B3SA8pNFDeONmo=
+
+Name: assets/data/Map/12easy.map
+SHA1-Digest: NrxAz8AseBhIXgpBDZ7gM9RppFQ=
+
+Name: res/drawable-hdpi-v4/ltad_promotion_icon_0.png
+SHA1-Digest: te9oVR7OWVvJHwPxTFSESgFAPtU=
+
+Name: assets/data/shooters/tihuan91.lx
+SHA1-Digest: HkM0skqJWkFFIhLzAFBQUJuPbxk=
+
+Name: assets/data/shooters/55.lx
+SHA1-Digest: 0mxjzKm19+we2RQp3vthDzp1DCU=
+
+Name: assets/data/shooters/480.lx
+SHA1-Digest: 7wzA0ehz80emSmO1cndp801FlQc=
+
+Name: assets/data/shooters/boss3_1.lx
+SHA1-Digest: HJ3DOC0s8umAQ2uIPdCnmdrZfN8=
+
+Name: assets/data/animation/BOSS28_2.json
+SHA1-Digest: CpG68TfBOKhgvd0reB59+d57/5M=
+
+Name: assets/data/Map/09.map
+SHA1-Digest: 7JfJhrudyToDqn6BBGPNDcSX0IY=
+
+Name: assets/data/animation/bullet19.json
+SHA1-Digest: 1cMO3mdHmfaWIiCmTZf6wjf3UKk=
+
+Name: assets/data/shooters/57.lx
+SHA1-Digest: QBbdkkbDI+6q7Y8t78IKd4fy2QQ=
+
+Name: assets/data/animation/bullet36.json
+SHA1-Digest: 30n6lqS72HyP/eUlRHbsLaahnTI=
+
+Name: assets/data/animation/huoli02.json
+SHA1-Digest: 2Y8Em7sQ6pRFOPiYvVgDB24Z48o=
+
+Name: assets/data/Map/04normal.map
+SHA1-Digest: +T1dN5sJeqf0NBIugK1jceeofoM=
+
+Name: assets/data/Texture/Res/boss29.png
+SHA1-Digest: 2Mf+jLh0/1uvpP46sKgiWZWassA=
+
+Name: assets/data/shooters/tihuan85.lx
+SHA1-Digest: FXNWMDBTMz2mtif05yjgcgczxCw=
+
+Name: assets/data/Texture/Res/erhaoji.png
+SHA1-Digest: tz9A9PqPEpJSc31htcJCBoYhjR0=
+
+Name: assets/data/Map/20.map
+SHA1-Digest: zSGq6kfXFTRq8O6AhZTOrZA91Ec=
+
+Name: assets/data/Map/08.map
+SHA1-Digest: 72qBkMj6WRkH4jOcQOdDA4dAWQs=
+
+Name: assets/data/animation/bullet63.json
+SHA1-Digest: OpGs5vOsV12b2eF4sombufOf61Y=
+
+Name: classes.dex
+SHA1-Digest: figyjMQHXJRDY2TuYNHbowmJdtM=
+
+Name: assets/data/Map/19.map
+SHA1-Digest: lWJgyPG1Si2hrzQw+iEZ4LSqN8s=
+
+Name: assets/data/particle/p0/gaonengball2.p
+SHA1-Digest: wzI02rUrrHO7P12/fPdGihEJv6s=
+
+Name: assets/data/shooters/488.lx
+SHA1-Digest: YQ1eB1rTpV2EduPrJLn0hNszPs4=
+
+Name: assets/data/shooters/boss14hard.lx
+SHA1-Digest: QkEYTCKtNIIgwn3vio7zo+2v+BY=
+
+Name: assets/data/Map/08easy.map
+SHA1-Digest: QiFmJtCPM/02ZENl90j/GrmcDIQ=
+
+Name: assets/data/animation/airplane3.json
+SHA1-Digest: NhY6IiQgJOkdXBernXeEXk9JCUQ=
+
+Name: assets/data/animation/zuanshi.json
+SHA1-Digest: V5BFglaGc5voUAIM8cqZfpv1ITI=
+
+Name: assets/data/Texture/fight480854.ExportJson
+SHA1-Digest: RQVs5rdmztfABhI9uAGLbS32LP4=
+
+Name: assets/data/animation/bullet52.json
+SHA1-Digest: bY3pn6tMAL2Q3xoOZNBHRlteQfk=
+
+Name: assets/data/shooters/tihuan116.lx
+SHA1-Digest: eohZTIzEmUk6BdxeOVoiraxNgac=
+
+Name: assets/data/Map/11normal.map
+SHA1-Digest: pMZRoB/ddvw1BAsegYWaYjN+Scw=
+
+Name: assets/data/Map/12normal.map
+SHA1-Digest: 2QYC3HjBompr7nVNZcMm1+hSILs=
+
+Name: assets/data/animation/airplane2.json
+SHA1-Digest: 1hjEj6hBiI9BfwK7U8aChXiqeOs=
+
+Name: assets/data/shooters/boss17hard.lx
+SHA1-Digest: v9N8uoyEpkB+gSZq6Ny9FAKqVDU=
+
+Name: assets/data/Texture/Res/transform3.png
+SHA1-Digest: ++9qa4fNRdwhJVfnm1o+Hck9onc=
+
+Name: assets/data/sound/boom_m.ogg
+SHA1-Digest: 5ff35uKfIQq7DL87zPvKY/SJbbY=
+
+Name: assets/data/shooters/tihuan89.lx
+SHA1-Digest: Bx291MxSNxd+Tzv9ksWVyra25Xs=
+
+Name: assets/data/Texture/Res/boss30.png
+SHA1-Digest: JIqbWjJO+RnL8kMy1+Z4E7rZYfU=
+
+Name: assets/data/Texture/Res/ui/upgrade.plist
+SHA1-Digest: kM8R1XidAKYHlurRlDnCxnRPy94=
+
+Name: assets/data/Map/02normal.map
+SHA1-Digest: ME1kTWiyn/QoqsJBJs6yU6uNFCE=
+
+Name: assets/data/shooters/490.lx
+SHA1-Digest: 0708SpXhZeZaYWm4XEbA4w+/aWc=
+
+Name: assets/data/particle/p0/user_firedian.p
+SHA1-Digest: qXC1/RqExhwexnG0PDwltYlgWPg=
+
+Name: assets/data/animation/erhaoji.json
+SHA1-Digest: JI4RYuyLXGgVLjrLp1YhtJuRUDw=
+
+Name: assets/data/sound/boom_user.ogg
+SHA1-Digest: czs5qT1dQSqpxySrhCcZnHvx7O0=
+
+Name: assets/data/Map/08hard.map
+SHA1-Digest: OP9ZWARRoAa2AVp8h/8XbXqg3p4=
+
+Name: assets/data/Texture/Res/boss30.plist
+SHA1-Digest: N2mjwBd8a4AN+22VvWUraMm9MYQ=
+
+Name: assets/data/shooters/tihuan833.lx
+SHA1-Digest: o89w9+GDWCdtkurmSNbqC6UVrEA=
+
+Name: assets/-2056071664/1828901715
+SHA1-Digest: uQwJCdX4mfsWfcsuG9Gpo/gZFRs=
+
+Name: assets/data/shooters/tihuan611.lx
+SHA1-Digest: lWYUkZ3L1n2z85g4KePXzAnp1/4=
+
+Name: assets/data/particle/p0/lock.p
+SHA1-Digest: Eug7Ebt/edSHvdzIzvmoUbvt+Gg=
+
+Name: assets/data/Texture/Res/boss1-ef.plist
+SHA1-Digest: y/ScAhFammI3+Ip1EHzZgzVNuRM=
+
+Name: assets/data/Map/5.json
+SHA1-Digest: Z5yrnZZgqGFuymn7YCdJwc01/fY=
+
+Name: assets/data/Texture/Res/liaoji2.plist
+SHA1-Digest: DOpUoFnckLzBFazF3lEGKbjVP5M=
+
+Name: assets/data/shooters/user/user5.lx
+SHA1-Digest: yTEhOQmrCmDcQh3tfrA5pwhKsuQ=
+
+Name: assets/-578916761/-149095216
+SHA1-Digest: 4sSJjFVShv55AyFcoz4tSDaAKYg=
+
+Name: assets/data/Map/11hard.map
+SHA1-Digest: qASkbGXKucnUXZxHKBV9wAogPQ4=
+
+Name: assets/data/Map/12hard.map
+SHA1-Digest: YSLqzfqOrsonquMd/+2F7TNA8Sc=
+
+Name: assets/data/animation/boss_2.json
+SHA1-Digest: FBCwSGvVAFWwGGLZXgG2+J6pxPo=
+
+Name: assets/data/animation/bullet05.json
+SHA1-Digest: UCo5Xb4MzK4iB5wOSKIk69eaWqY=
+
+Name: assets/data/animation/BOSS27.json
+SHA1-Digest: Ow/sfq8+amaK8sBVB9pr+oYe1lI=
+
+Name: assets/data/animation/bullet44.json
+SHA1-Digest: +r7bye6e7sgIg9VYeU+/T5QU85A=
+
+Name: assets/data/shooters/user/user2.lx
+SHA1-Digest: PJKfUWgfNQd03UrfT1+Fwi9sOi0=
+
+Name: assets/data/Texture/upgrade600800.ExportJson
+SHA1-Digest: Q1w2DTIjpVCi37IXdnUjOz0SSBk=
+
+Name: assets/data/shooters/tihuan73.lx
+SHA1-Digest: r0jNYPuHP/ZMo4c02AtvFv/QyEs=
+
+Name: assets/data/Texture/Res/diji02.plist
+SHA1-Digest: cET64k2FSEVAAC6756tw2cWVuEI=
+
+Name: assets/data/animation/airplane.json
+SHA1-Digest: DBzcyGW5W0sBbc8JPITAozhUy2Q=
+
+Name: assets/data/animation/BOSS9.json
+SHA1-Digest: WSsVplgi6iQmfl39SfRPkBFkpC0=
+
+Name: assets/data/Map/10normal.map
+SHA1-Digest: Anv93o1vqCIQyhK224RajWGxLwo=
+
+Name: assets/data/shooters/92.lx
+SHA1-Digest: K3wCkO/Q2jWZPVelbW3bRMtbntA=
+
+Name: assets/data/animation/bullet23.json
+SHA1-Digest: 2dsEsuXZqOIuf9YwmEBE9odSp1U=
+
+Name: assets/data/Texture/Res/boss1-ef.png
+SHA1-Digest: UzzVTOrcAE9e7L8itLfcL85FueM=
+
+Name: assets/data/Texture/zhujiemian480854.ExportJson
+SHA1-Digest: dnKFBpXiVWkhy4nom3A2KS5kf9A=
+
+Name: assets/data/Texture/Res/ui/guanqiatongji.plist
+SHA1-Digest: gTAzNuHCLsgtQqjWWsRSExEhxas=
+
+Name: assets/data/Texture/Res/ui/guanqiaxuanze.png
+SHA1-Digest: 7MiqhezJhMXO87EEfFQ5/wZN9c8=
+
+Name: assets/data/shooters/tihuan71.lx
+SHA1-Digest: CTuiUDcVPNzpicykiW59epGtpn8=
+
+Name: assets/data/Texture/Res/scene/bg3/bg.png
+SHA1-Digest: Hs+nmUiY5v9TjOaKxzcGEAvC2iI=
+
+Name: assets/data/Texture/Res/ui/zhujiemian.png
+SHA1-Digest: Yg4aNH6xskHeV6dAwKUX8XDJS98=
+
+Name: assets/data/Texture/Res/particleAtlas0.plist
+SHA1-Digest: uENNJc+nPO11R+v7RzS11HMFUJ0=
+
+Name: assets/data/Texture/Res/ui/zhujiemian.plist
+SHA1-Digest: LPmcVVthYW9AByDAbtrEFLKljoQ=
+
+Name: assets/data/particle/p0/laser_hited_red.p
+SHA1-Digest: y/u65fRctnG7GCblcyjqR9INgsk=
+
+Name: assets/data/Texture/DengLu600800.ExportJson
+SHA1-Digest: jrnwsu+1SJKaQ954PvTemdsYBI8=
+
+Name: assets/data/Map/05hard.map
+SHA1-Digest: EBEJOGJAO835sJvGPjfCtGLH9hs=
+
+Name: assets/data/Texture/Res/player3.png
+SHA1-Digest: j5b4Zdx2fCaabYWmpjfwIG4CAl0=
+
+Name: assets/data/particle/p0/tocrystal.p
+SHA1-Digest: UJhs+06Ap8GJTlkhdWWXtMx4HGo=
+
+Name: assets/data/Map/21.map
+SHA1-Digest: nyT+TXGoNs2bbKb+lXWlxWcK6s8=
+
+Name: assets/data/Texture/Res/boss26.plist
+SHA1-Digest: 7aA5FgaOGJlcCt45haMO+EDNAcc=
+
+Name: assets/data/shooters/47.lx
+SHA1-Digest: iSoMdFXv0YtiNMJlRa5qVdvu5f4=
+
+Name: assets/data/shooters/tihuan88.lx
+SHA1-Digest: HY6NRVx8elxTVaIdT8k8X431Si8=
+
+Name: assets/223472770555930248273704597546114966513466592707526149
+SHA1-Digest: /6Nb6iANkFNhpB0H6RVoE+EryAY=
+
+Name: assets/data/Texture/Res/ui/TextAtlas/a16.png
+SHA1-Digest: l8U6vv7tsTmRdU0C5ocTDABih+M=
+
+Name: assets/-578916761/-1871116558
+SHA1-Digest: xckYq1ucfcvVNYpS9sF5B4HYmcQ=
+
+Name: assets/data/particle/p0/baoxian.p
+SHA1-Digest: uzCgnfRa8Y/hPX4O0B9hTyplD/o=
+
+Name: assets/data/Map/24.map
+SHA1-Digest: wT/oH+jkoGGBL/uxra/H6dvW3UA=
+
+Name: assets/data/Texture/Res/ui/TextAtlas/a27.png
+SHA1-Digest: qwiMu+yWDShivfKRObxmQ678TDM=
+
+Name: assets/data/Texture/fight480800.ExportJson
+SHA1-Digest: sPtvdXY8NbTp4Nndlu2GwcVv//M=
+
+Name: assets/data/shooters/95.lx
+SHA1-Digest: ECl7FeYEo+j7kVWu9VI9Qgc8r/E=
+
+Name: assets/data/Map/11.map
+SHA1-Digest: VFJgKizVfQA830/f/BpzV10OfCA=
+
+Name: assets/data/Texture/tongguanjiangli533800.ExportJson
+SHA1-Digest: reKf87Sk//fMaimR2PD35I8XJq4=
+
+Name: assets/data/Map/13hard.map
+SHA1-Digest: PTnnJjJvS/nZ+o5+mI92aCoibp8=
+
+Name: assets/data/shooters/75.lx
+SHA1-Digest: GxeJpyoFDAwEWG8nR9GU9D/GYoM=
+
+Name: assets/data/Map/05.map
+SHA1-Digest: qAI2hxkhPLXgGTw3YMaKj5Y/egM=
+
+Name: assets/data/particle/p0/shieldup.p
+SHA1-Digest: JITplqzqwmrGkq1W48+omAcBomM=
+
+Name: assets/data/Texture/Res/scene/bg5/bg.png
+SHA1-Digest: lNARo01etRLgxQfgy4MhRts2KPE=
+
+Name: assets/data/Texture/Res/ui/ranking.png
+SHA1-Digest: kz/rbF+Tj3Q7VkeKlpPkprBVysg=
+
+Name: assets/data/shooters/74.lx
+SHA1-Digest: OF1NPdk7PSVCPHkIjdqOSUB91X8=
+
+Name: assets/data/particle/p0/shield.p
+SHA1-Digest: qEWlesMJ50m4HBprCHqJatZ2s4Y=
+
+Name: assets/data/Map/07normal.map
+SHA1-Digest: 1aMoYUoZymQ1VZTIMCCu54M686Q=
+
+Name: assets/data/sound/bgm_boss.ogg
+SHA1-Digest: QtXwP+yVIjt5zfATAII40zUcRjY=
+
+Name: assets/data/animation/bullet22.json
+SHA1-Digest: JyNFp4EcTQaGVJpLq7mV+VJQkO0=
+
+Name: assets/data/Texture/Res/ui/TextAtlas/a26.png
+SHA1-Digest: AXR16ieMZn/TAFNHqP0iU3qmVU4=
+
+Name: assets/data/shooters/93.lx
+SHA1-Digest: Dkf9MO3PdbI3lJm0P2KByrmUSTU=
+
+Name: assets/data/shooters/38.lx
+SHA1-Digest: 9qopcz66/UUCNIZS7fKQwGHHhCE=
+
+Name: assets/data/animation/bullet13.json
+SHA1-Digest: CaLfxQNcaSqVKp7rjtpSXBCV3x0=
+
+Name: assets/-578916761/1457489639
+SHA1-Digest: dnp3BBdzSPsqae1oK+i/Pw3eByQ=
+
+Name: assets/data/action/eScript.json
+SHA1-Digest: WHBF0DWoj0VFI4ym7ArDG4feekk=
+
+Name: assets/data/animation/baoxian01.json
+SHA1-Digest: XU04sCLg42InuhNMbNNH2EoMaRw=
+
+Name: assets/data/Map/06normal.map
+SHA1-Digest: HHFUwxWKMvixY8hTP/RPF/qdLys=
+
+Name: assets/data/animation/bullet43.json
+SHA1-Digest: x9HHOCd+BKlb0wwyNRkUU4ml/Iw=
+
+Name: assets/data/Texture/Res/air.plist
+SHA1-Digest: amdSWfDebeTLvOD3AtGWS7n8Lrg=
+
+Name: assets/data/animation/boss25_2.json
+SHA1-Digest: exlncmPiUZUlxfgqcJ2VSqRoLwM=
+
+Name: assets/data/db/user.txt
+SHA1-Digest: iZ+N0mQprC9heIKEQH8c4n16Br8=
+
+Name: assets/data/Texture/Res/ui/xinshou.plist
+SHA1-Digest: JXPb9eL41jS1m+if8m57YN2iV6E=
+
+Name: assets/data/shooters/76.lx
+SHA1-Digest: rdJd8domxRmvjAWkH6h8eekuH8c=
+
+Name: assets/data/shooters/tihuan114.lx
+SHA1-Digest: 5oqAezIiwAvXhEa3X5ofoZfNiX4=
+
+Name: assets/data/particle/p0/laser_hited.p
+SHA1-Digest: jg6F8HI6j3F0UIy/KIAhnd0ycz4=
+
+Name: assets/data/Texture/Res/scene/dec4/8.png
+SHA1-Digest: AEwb4Vl9vt3Y/u7TssvQFe8EPeA=
+
+Name: assets/data/Texture/Res/boss8.plist
+SHA1-Digest: Rhfh/mjuWF1DhSlJmuYw7Eqqeas=
+
+Name: assets/data/Texture/tongguanjiangli480854.ExportJson
+SHA1-Digest: XxCh0jrXQy8XAYFvjNHguOw5BtQ=
+
+Name: assets/-578916761/-72395641
+SHA1-Digest: xigT3BhSMSmN6+h21yOmvdq4ppg=
+
+Name: assets/data/shooters/boss12normal.lx
+SHA1-Digest: Clm/Im3kdB1h1LyOlPJyNLoHDQM=
+
+Name: assets/data/Texture/ranking533800.ExportJson
+SHA1-Digest: xqjx7qDBXko5hntNG4GyrCH1yOw=
+
+Name: assets/data/Texture/zanting533800.ExportJson
+SHA1-Digest: YHe2izEPTGxqwsQVZO3Q1s8u36Q=
+
+Name: assets/data/animation/bullet16.json
+SHA1-Digest: M7w+3NLH4EMfLTx/07E1wx1qilI=
+
+Name: assets/data/Map/13easy.map
+SHA1-Digest: FNBvguX1ZG7z1+zt2IfinqaSzv8=
+
+Name: assets/data/Texture/Res/scene/dec0/2.png
+SHA1-Digest: k44wa3OuIv0C1/H+slLBcKI/x2w=
+
+Name: assets/data/Texture/Res/ui/select_rank.plist
+SHA1-Digest: A/Fl0K8RJYfLStstCdhI0dd5MXQ=
+
+Name: assets/data/shooters/boss8easy.lx
+SHA1-Digest: AMxvkhy0qjW09w+CO/5GgsAlOw8=
+
+Name: assets/data/Texture/Res/boss18.png
+SHA1-Digest: 2n3zoNp1tFWjeQzwmv/JvlvqFec=
+
+Name: assets/data/Texture/Res/ui/ranking.plist
+SHA1-Digest: +qznam+13csrFoh7CVatfCi4zK0=
+
+Name: assets/data/shooters/tihuan115.lx
+SHA1-Digest: FXNWMDBTMz2mtif05yjgcgczxCw=
+
+Name: assets/data/animation/baoshi06.json
+SHA1-Digest: gD3TKrfQxoenMPkp+Sir02SVGaE=
+
+Name: assets/data/shooters/455.lx
+SHA1-Digest: 37PhC0yU7txzFPozUnAD4s7LwGY=
+
+Name: assets/data/Texture/DengLu480854.ExportJson
+SHA1-Digest: l5z7Me0gz+CeywhTwjqCb6wxyr8=
+
+Name: assets/data/shooters/46.lx
+SHA1-Digest: uXnKwYOa5epdV59GEWB5RB/MJpo=
+
+Name: assets/data/shooters/tihuan83.lx
+SHA1-Digest: FYRC8KktFyIYiRkYzbhT18FYvGo=
+
+Name: assets/data/Texture/Res/transform1.png
+SHA1-Digest: 0tsltzWGFNWvMue70lgs90UTblw=
+
+Name: assets/data/shooters/tihuan66.lx
+SHA1-Digest: LFo0hNsRQJqtXl9Z9QYHRbZ9H8g=
+
+Name: assets/data/shooters/69.lx
+SHA1-Digest: 01Sjhnpwb6fZljs2riogtVNTP58=
+
+Name: assets/version.txt
+SHA1-Digest: 6kcRILYvGxWSRe6FL4h1rgSqGqw=
+
+Name: assets/data/shooters/tihuan95.lx
+SHA1-Digest: Tsix1C1Zj2LKLOqG5fvJ0zrfTUw=
+
+Name: assets/data/shooters/_gen1.lx
+SHA1-Digest: ZxFmBDokkj61ehY90AsS62skCnc=
+
+Name: assets/data/particle/p0/fireball.p
+SHA1-Digest: vZ4ZLyUtiByuUS7m9ghHHxV/GPc=
+
+Name: assets/data/Map/02.map
+SHA1-Digest: a6efgIex8+4SRzslKgQJFuQRigI=
+
+Name: assets/data/Map/18easy.map
+SHA1-Digest: bQCkpGV5d99B3cD4icxmkeKENkI=
+
+Name: assets/data/animation/jinbi06.json
+SHA1-Digest: M7x9hyHg0ijLTUYJ5fMeBaWgdWg=
+
+Name: assets/data/shooters/88.lx
+SHA1-Digest: FK7vW+lKg240jupztokwa6/bsyw=
+
+Name: assets/data/Map/02easy.map
+SHA1-Digest: BSiysukSl33vUo5SZBHI3ZtBVBA=
+
+Name: assets/data/Texture/Res/ui/TextAtlas/a24.png
+SHA1-Digest: IEkY+EeEBEWTlwHRXCMY05vlW/Y=
+
+Name: assets/data/animation/BOSS18.json
+SHA1-Digest: kekZ5kdlrLEjDb+34vPSxzFHpPk=
+
+Name: assets/data/shooters/44.lx
+SHA1-Digest: c36KVufLtREqj5U129HDKu1V+9g=
+
+Name: assets/data/sound/back.ogg
+SHA1-Digest: UTmCbYr/Cca1VeSqZDGkpjnc1LU=
+
+Name: res/drawable/sprinkle_close_btn_1.png
+SHA1-Digest: M6uz5Cj0/tLmHTEELpFUBkWuy/0=
+
+Name: assets/data/shooters/boss14easy.lx
+SHA1-Digest: 10EloGCxasjt836RvxAuslHk0gU=
+
+Name: assets/data/animation/bullet54.json
+SHA1-Digest: b454dqsj2pzcNkwIkLxmI1C6NWI=
+
+Name: assets/data/shooters/459.lx
+SHA1-Digest: zhzL3FpJY3FvS6R9QnbgN/QXM0M=
+
+Name: assets/data/animation/wing2.json
+SHA1-Digest: fHsIL47ezApi6GquyaNDbsfTIP4=
+
+Name: assets/data/Map/17.map
+SHA1-Digest: nQUSp9g3WjOoBFpx84M7S7JTuoA=
+
+Name: assets/data/Texture/Res/liaoji5.plist
+SHA1-Digest: iBGa5ZB0kS/eisBnJKyTtuxwHN0=
+
+Name: assets/data/Texture/upgrade480800.ExportJson
+SHA1-Digest: 94wlirliskeEur445syTSzGBW94=
+
+Name: assets/data/shooters/boss8hard.lx
+SHA1-Digest: eVodqPKOS+bxaMUFr2+GyTcN1H0=
+
+Name: assets/data/shooters/449.lx
+SHA1-Digest: nOCqOxfpRcRaNiR7xMVfWxJiz9Q=
+
+Name: assets/data/Texture/Res/boss25.png
+SHA1-Digest: r5s+vyYoRKidJUuEUDBhjW6jSMY=
+
+Name: assets/data/Map/03.map
+SHA1-Digest: pktqH4V/1XaKDUUOVSasyajYUyA=
+
+Name: assets/data/sound/crystal.ogg
+SHA1-Digest: NIs/av/RhXfgXjj34RW6CYjkrHQ=
+
+Name: assets/data/animation/bullet55.json
+SHA1-Digest: PekLEB6knImzTxAW1XINVwxvD9o=
+
+Name: assets/data/particle/p0/boss_fire2.p
+SHA1-Digest: 2RlcT+llPpE2EQUr3KyyuOvkkIk=
+
+Name: res/drawable-hdpi-v4/icon.png
+SHA1-Digest: HD9bYXeiDe35yBWswvOL5WAEJqE=
+
+Name: assets/data/animation/bullet31.json
+SHA1-Digest: jFQsPAMpruI8zPRBSwyyedUC3qk=
+
+Name: assets/data/animation/bullet72.json
+SHA1-Digest: 3jniAdaeG/cg2EHYZJt1Fy9tE7Y=
+
+Name: assets/data/Texture/Setings600800.ExportJson
+SHA1-Digest: Uk5TzaYxCCa6ubFhBs9StWy5GD0=
+
+Name: assets/-578916761/2075897504
+SHA1-Digest: EGn7WFnN5d0ZWjgBhIhbnCxn1Vc=
+
+Name: assets/data/animation/bullet07.json
+SHA1-Digest: e6MzS+32ah2QU3Bwb2cdZ0qk7fU=
+
+Name: assets/data/particle/p0/boss_fire1.p
+SHA1-Digest: blWDCoxCqBEebuMwq/9pme3cwJE=
+
+Name: assets/data/shooters/53.lx
+SHA1-Digest: 0u8ju5EerOduteuCY5GaZkEmKzA=
+
+Name: assets/data/particle/p0/user_fire.p
+SHA1-Digest: 0fkDPy/GtkF3jIufPVI5qSQtZUM=
+
+Name: assets/data/shooters/33.lx
+SHA1-Digest: WkSPvtRrl0dfKW0w7uNLvSsGnSo=
+
+Name: assets/data/shooters/boss15.lx
+SHA1-Digest: 7bXtpTbYvUrJ7ZbcZz5oH2kaeGk=
+
+Name: assets/data/Map/01normal.map
+SHA1-Digest: QaiduEB4Ablx6b/3v7flZb0gJIE=
+
+Name: assets/data/shooters/489.lx
+SHA1-Digest: VFsKY+DNCnj26eD2gu36Oudfa4w=
+
+Name: assets/data/shooters/boss17.lx
+SHA1-Digest: myOVgs3MW0gPu/jkA9WKNR7AABg=
+
+Name: assets/data/shooters/466.lx
+SHA1-Digest: QWe41RvtR9IHgE8V8o7LQPfjU/k=
+
+Name: assets/data/shooters/4.lx
+SHA1-Digest: iSk1USDA/fVX/VE9LRrWbyft9fY=
+
+Name: assets/data/db/Parameter.txt
+SHA1-Digest: xmioBXnTQRFYh0L9xy5kE/rjmkA=
+
+Name: assets/data/Texture/BuyBox480854.ExportJson
+SHA1-Digest: g7/BOgdIujOMTAVkkhgVOC/JWKk=
+
+Name: res/layout/zzzsurpriseprjsnotificationcontentviewxxx.xml
+SHA1-Digest: Vr6ahLJYWaCBNKukBbFEmnWeAi8=
+
+Name: assets/data/shooters/tihuan63.lx
+SHA1-Digest: 3U6nZ7paZrh1LemstqntNqd85sY=
+
+Name: assets/data/particle/p0/transform5_open.p
+SHA1-Digest: rSikDxGcnwDQDt1Lx75zgM5Czek=
+
+Name: assets/data/animation/boss.json
+SHA1-Digest: LdtbjZbAtJavCd4cbb/sQkOiU9I=
+
+Name: assets/data/shooters/boss3normal.lx
+SHA1-Digest: c5Ul4FVBAJZpujXJvYwMxLVYwhs=
+
+Name: assets/data/Map/16normal.map
+SHA1-Digest: F9lvHSHuCR737MxF7cGjqWHIxGw=
+
+Name: assets/data/sound/bullet1.ogg
+SHA1-Digest: AmhCPUOst7a9G4/gHd1LtWIpaV4=
+
+Name: assets/data/shooters/boss18.lx
+SHA1-Digest: MUne8Mp0vl6xucAVeedMCcNy86w=
+
+Name: assets/data/shooters/483.lx
+SHA1-Digest: I8x9JvvmGFJbI/KcVOMArgioaj4=
+
+Name: assets/data/shooters/106.lx
+SHA1-Digest: ObPLTouOUR7WOwft49c7m45tqF8=
+
+Name: assets/data/shooters/user/liao1zuo.lx
+SHA1-Digest: w6acOUCuYtyd3I5KTFlKpPnNE5A=
+
+Name: assets/data/Map/15easy.map
+SHA1-Digest: g4QVedhB/km2OE7ksLxWfa2DOWc=
+
+Name: assets/data/db/sound_win32.txt
+SHA1-Digest: cCuxU+mYU+VGguL87t/JU1BImXQ=
+
+Name: assets/data/Texture/Res/scene/dec2/4.png
+SHA1-Digest: 1BF9dsae+cU1jdU262xjeSnnhq8=
+
+Name: assets/data/Texture/Res/scene/bg0/test.png
+SHA1-Digest: UhI0Z/F1Ul8fIxrjfHe4YksRx3w=
+
+Name: assets/data/Texture/Loading.ExportJson
+SHA1-Digest: n3PU4K96OiEqcf2OApU30WoehYY=
+
+Name: assets/data/Texture/ranking600800.ExportJson
+SHA1-Digest: QRmEYFC8MQrdW8BFfPSxKQlI0ms=
+
+Name: assets/data/shooters/476.lx
+SHA1-Digest: J7gPvmyDQnzfVuP/35U4iB1EP1s=
+
+Name: assets/data/Texture/Res/liaoji3.png
+SHA1-Digest: mi/cZD+wA2W/SPKSF5tpnFs/N/4=
+
+Name: assets/data/animation/bullet61.json
+SHA1-Digest: Yr3/4XOMqNeGa7ca0etGd8mBNhc=
+
+Name: assets/data/shooters/boss24.lx
+SHA1-Digest: Ztaau20UDc9zYovgtn+h1QhVv9Q=
+
+Name: assets/data/animation/BOSS29.json
+SHA1-Digest: COlQEBLF+pQoqU+AZiTStVQG8i4=
+
+Name: assets/data/shooters/487.lx
+SHA1-Digest: alocrj1atual41xyb/ZwVs9HQHo=
+
+Name: assets/data/shooters/104.lx
+SHA1-Digest: E+WZVIJ0eNc484F2+xg8LMFZ2Ug=
+
+Name: assets/data/Texture/Res/ui/upgrade.png
+SHA1-Digest: nOgEPUDV6lMLJLQnl/HG48tl6iU=
+
+Name: assets/data/animation/bullet57.json
+SHA1-Digest: J4tluCuWqwDuF9gf9ncFu1Xerck=
+
+Name: assets/data/shooters/82.lx
+SHA1-Digest: HaDda8Yk77lhwhxytW3RTNGFURw=
+
+Name: assets/data/shooters/boss14.lx
+SHA1-Digest: qxcv/5hpt++tPzznDOx8DcSjn6c=
+
+Name: assets/data/Map/18normal.map
+SHA1-Digest: zkJYbBtOuj6PVldJbchkXtrs1gs=
+
+Name: res/drawable-hdpi-v4/ltad_promotion_icon_1.png
+SHA1-Digest: khDrm/mlMMWHgwppwvNg2K+dB5g=
+
+Name: assets/data/particle/p0/diaobao.p
+SHA1-Digest: 2Q4thBsMqzHlNUqN07s5YLZyNSc=
+
+Name: assets/data/shooters/zhonger.lx
+SHA1-Digest: suNbdd16p0MnpQ33ul2g8Jli6/w=
+
+Name: assets/data/Texture/DengLu480800.ExportJson
+SHA1-Digest: e0zW9kjqNkM6HeGq6mlmo30y1qs=
+
+Name: assets/data/animation/bullet15.json
+SHA1-Digest: /UqDhCQ2xLahDTQsaPPo3nIXmSw=
+
+Name: assets/data/shooters/boss5hard.lx
+SHA1-Digest: lIt/kPqmsmnVbhld9EAbcb43o14=
+
+Name: assets/data/animation/bullet48.json
+SHA1-Digest: hDRdHm+NcflF4snThdQK4JQAi7w=
+
+Name: assets/data/Texture/zhujiemian480800.ExportJson
+SHA1-Digest: tha3XQP0EdxafysVUtefNCtifZY=
+
+Name: res/drawable-hdpi-v4/ltad_promotion_icon.xml
+SHA1-Digest: wbN+S/3e3czWded2XXY/JFVOY90=
+
+Name: assets/data/particle/p0/getcrystal.p
+SHA1-Digest: iE0JsyckjTx4DBXoTNvIpF78AB4=
+
+Name: assets/data/Texture/Res/ui/loading.png
+SHA1-Digest: vFE5kGR1h1yj5EwBJ+7h6UqAUeU=
+
+Name: assets/data/particle/p0/lightball2.p
+SHA1-Digest: PYnyLvJU2tBfQl0tSi7fYOknONc=
+
+Name: assets/data/shooters/tihuan932.lx
+SHA1-Digest: AD4pARtkJMJXRzK/s5+C+XX0be0=
+
+Name: assets/data/animation/bullet49.json
+SHA1-Digest: 4b8fqWB9ZxgMBykERbgM9to1v2k=
+
+Name: assets/data/animation/bullet38.json
+SHA1-Digest: asftf52u5PM1syl5/6yeX67Pfis=
+
+Name: assets/data/shooters/tihuan112.lx
+SHA1-Digest: f8wpTtZj2rNi6eBDksOX72s47DA=
+
+Name: assets/data/db/enemy.txt
+SHA1-Digest: MT4E0cl6K8XyRUs5Iu2CsadyGfw=
+
+Name: assets/data/animation/bullet34.json
+SHA1-Digest: HSVJo2s8n6iFiFG9CGXo0hyOWcc=
+
+Name: res/drawable-ldpi-v4/icon.png
+SHA1-Digest: pYsYOAW4Hk7ekQpOxk63ppjNHTM=
+
+Name: assets/data/particle/p0/lightball1.p
+SHA1-Digest: GbyNvlv53kKdz47zaiN4HYVuXoc=
+
+Name: assets/data/Texture/Res/scene/dec5/3.png
+SHA1-Digest: m2kQGMq7cYt2bTFZ32cd3wX1JSE=
+
+Name: assets/data/shooters/boss11easy.lx
+SHA1-Digest: 0mWtF2nRE6leIP1TdnIlWe8bnSU=
+
+Name: assets/data/Texture/Res/player2.plist
+SHA1-Digest: n+lNFJzCPcL24MrhlztcsNMxAmk=
+
+Name: assets/data/animation/bullet28.json
+SHA1-Digest: PS6JP68sk0kSpl8KiviuE3M88Jw=
+
+Name: assets/data/shooters/boss13easy.lx
+SHA1-Digest: zesTdJCkfOhMd7KlG7zAitU/8SE=
+
+Name: assets/data/shooters/boss17easy.lx
+SHA1-Digest: R0TQeJgp8mJpMl4DUPBfcyy4+pg=
+
+Name: assets/data/Texture/Res/boss10.png
+SHA1-Digest: 6P7dxz3kUZzmkrAotczkwkmaaN4=
+
+Name: assets/data/Texture/Res/ui/loading.plist
+SHA1-Digest: 1vhp/gExG061+8JUKE4gr+2r7oU=
+
+Name: assets/data/shooters/zhongsan.lx
+SHA1-Digest: NXupR1N7yp5SqrsRVVQ+Y1sIHpI=
+
+Name: assets/data/shooters/boss19.lx
+SHA1-Digest: jmNTVRvkxTBbU9u8sPsYE8Qz4LA=
+
+Name: assets/data/Texture/Res/boss9.plist
+SHA1-Digest: vxO8/3ZC9unFc6JX74sRlkXQfOo=
+
+Name: assets/data/animation/bullet66.json
+SHA1-Digest: itEpijxBDfpXWLl2yJ30xW8a4OY=
+
+Name: assets/data/shooters/boss10easy.lx
+SHA1-Digest: Q86ns0NB5kDK/pBcqm2Fmni6LKg=
+
+Name: assets/data/shooters/86.lx
+SHA1-Digest: /nxpYpCv2Tj2H2hV67kquc6TJuA=
+
+Name: assets/data/shooters/boss12easy.lx
+SHA1-Digest: eB9+F4RNAy7cgZWxsYKoske8cIw=
+
+Name: assets/data/Map/07hard.map
+SHA1-Digest: 3KUcFSfjqoSbPdSKbDAyBYDfYOE=
+
+Name: assets/data/Texture/Res/scene/dec5/4.png
+SHA1-Digest: YCsZsMUhpNKfaOqNV7Sfn6a1RAI=
+
+Name: assets/data/Texture/Res/erhaoji.plist
+SHA1-Digest: 0P2EzrJzZKSO6WNUT9yrtXa93Gk=
+
+Name: assets/data/animation/BOSS17.json
+SHA1-Digest: fU1+kqP4c+5yU6+gQJc2c01AyYk=
+
+Name: assets/data/Texture/Res/ui/xinshou.png
+SHA1-Digest: 8HGwwIr2jZiOvnX/3tSbmEis7CQ=
+
+Name: assets/data/shooters/boss13hard.lx
+SHA1-Digest: t+en101Ejpk/stOyoI142VVIgEA=
+
+Name: assets/data/shooters/450.lx
+SHA1-Digest: CGO8+0MTY0jNw2TgOydcLPCsM2A=
+
+Name: assets/data/animation/bullet29.json
+SHA1-Digest: zC5MYVzqghZkohpqQ3Ko+oB6TMY=
+
+Name: assets/data/Texture/upgrade480854.ExportJson
+SHA1-Digest: t8bC0P6Hv5uk+P9SNP00D7gsw5I=
+
+Name: assets/data/sound/bomb.ogg
+SHA1-Digest: Jy/7SE/QE28umVfiqS/WJvJ0o1U=
+
+Name: assets/data/shooters/user/user3.lx
+SHA1-Digest: zneY9TQcqKLdWdr1CsV+Cb690Pg=
+
+Name: assets/data/animation/bullet37.json
+SHA1-Digest: jKFAOmlKhXZZNlamdub1ASrybYo=
+
+Name: assets/data/Texture/Res/scene/bg0/bg.png
+SHA1-Digest: VO8fYQRhJuDtbWinVApeBcQxxDk=
+
+Name: assets/data/shooters/user/user4.lx
+SHA1-Digest: Mt2liKDkRStFfGJxMDzKvAy/vhc=
+
+Name: assets/data/animation/jinbi10.json
+SHA1-Digest: /kt3wPdfC6gB3aLUNfJBumCnP8k=
+
+Name: assets/data/shooters/b81.lx
+SHA1-Digest: eVodqPKOS+bxaMUFr2+GyTcN1H0=
+
+Name: assets/data/shooters/468.lx
+SHA1-Digest: IbdD6dmySnYDjEE0aqjxd0AGILM=
+
+Name: assets/data/shooters/boss5easy.lx
+SHA1-Digest: JVpPTOIL9Jyp71R7AoXfk16Ywe8=
+
+Name: assets/data/db/plane.txt
+SHA1-Digest: rHwmfTSBurHCyrAFfJyoz5fIHoI=
+
+Name: assets/data/Texture/Res/ui/play.plist
+SHA1-Digest: 8Pci9ca4jMQZlsyuBvMKT0zAhSw=
+
+Name: assets/data/shooters/tihuan62.lx
+SHA1-Digest: /T2G+QIPu5l2t9pQsdV2gLmghrk=
+
+Name: assets/data/Map/bonus1.map
+SHA1-Digest: Cwqzbu8j4vape7SxB9K4Rbn2a1U=
+
+Name: assets/data/shooters/tihuan113.lx
+SHA1-Digest: FYRC8KktFyIYiRkYzbhT18FYvGo=
+
+Name: assets/data/Map/03normal.map
+SHA1-Digest: hjeRLZFnBZLHUJ+d+yAFe7bdKrs=
+
+Name: assets/data/shooters/tihuan77.lx
+SHA1-Digest: 4Pk15TmmRlSGP/j4JAg2kh3cG5s=
+
+Name: assets/data/db/StrFilter.txt
+SHA1-Digest: 6G1aij2Z7GFBgkAcgn94446Sc+8=
+
+Name: assets/data/animation/bullet60.json
+SHA1-Digest: KosQi5/Ga6r+4HAAQlbU97jmXjM=
+
+Name: assets/data/shooters/1.lx
+SHA1-Digest: ALAaTo6Kvanrf4i/OSUcYAzSVZ0=
+
+Name: assets/data/shooters/boss6easy.lx
+SHA1-Digest: zzWdqrF8BPPBAIyLOWfbZH0Q7PI=
+
+Name: assets/data/sound/boom_s.ogg
+SHA1-Digest: 8RNegsqyArABMSePiAYdAb6q8ks=
+
+Name: assets/data/Texture/Res/transform2.png
+SHA1-Digest: tefyJkNSn4jDmPsIyF3zxnvDH+4=
+
+Name: assets/data/Texture/Res/boss27.png
+SHA1-Digest: NR+VayvbYhGLPiM0szx3tsLKlPg=
+
+Name: assets/-578916761/415680745
+SHA1-Digest: YDDWWPkqQ3jms2Ehu6yO/UvmDNA=
+
+Name: assets/data/Texture/Res/boss1.png
+SHA1-Digest: cX1hZK5bo3RMzry+PiYUI3/+BtE=
+
+Name: assets/data/Texture/jixie.ExportJson
+SHA1-Digest: 8mG+U99E+VveBVt7CwBQcIoyU/M=
+
+Name: res/drawable-mdpi-v4/icon.png
+SHA1-Digest: dHt3BGl4Nt9df02PwTwQ2S84jR4=
+
+Name: assets/data/shooters/boss9easy.lx
+SHA1-Digest: Nk3mHvB2P0Re5BIkrIAo+Tp9Di4=
+
+Name: assets/data/Texture/Res/boss1.plist
+SHA1-Digest: 70Eda7zaLBDbuZweJaynENUQtis=
+
+Name: res/drawable-hdpi-v4/ltad_promotion_icon_7.png
+SHA1-Digest: tIOMk9mjJxMvnvtpfKMFhCA5wEU=
+
+Name: assets/data/shooters/user/liao5you.lx
+SHA1-Digest: Occ1UZabl9sNuprYcoWh857QB3o=
+
+Name: assets/data/Map/06.map
+SHA1-Digest: dQM9zu0lLKl1l29s1YAh2xIvuLg=
+
+Name: assets/data/particle/p0/dianqiu.p
+SHA1-Digest: gM8Lc9MytYIdxjvyEyMvi3d/ysY=
+
+Name: assets/data/shooters/b101.lx
+SHA1-Digest: FLXWQM2nZvDfP5AfzL32tnqGRjg=
+
+Name: assets/data/particle/p0/super3.p
+SHA1-Digest: JBTa2KseP1BL5sEOM2rkoQ4GN4I=
+
+Name: assets/data/shooters/460.lx
+SHA1-Digest: KSlJIFOWTZ/45K+EZzhVfRhQyxY=
+
+Name: assets/data/animation/BOSS8_2.json
+SHA1-Digest: QySoQwxawozZQRxvvtvyIC7+5Ok=
+
+Name: assets/data/shooters/user/list.txt
+SHA1-Digest: pDr/WZ7oGVMo/TLZqXuA0sOhQU0=
+
+Name: assets/data/animation/wing5.json
+SHA1-Digest: FsZCFTVzeOxCJxRGLKuCeqGHz7k=
+
+Name: assets/data/animation/bullet35.json
+SHA1-Digest: qyEIuKEBL2GG47eeML+mdqzqxko=
+
+Name: assets/data/Texture/Res/bossair1.png
+SHA1-Digest: Qzm2h3lia/UgkBeMTpeM6IuAlAA=
+
+Name: assets/data/particle/p0/victory.p
+SHA1-Digest: etMdwD5GoxjHo/zrYZydlzZByzc=
+
+Name: assets/data/animation/bullet08.json
+SHA1-Digest: HUjOxdBQqi2FuGiGTRxsfkBhpfQ=
+
+Name: assets/data/db/MissionInfo.txt
+SHA1-Digest: qO0rcNucW1P19Y9E3GZtwvzSrxg=
+
+Name: assets/data/particle/p0/super2.p
+SHA1-Digest: 7JBcmA8RoMjjdwgMuq0W3t6ohes=
+
+Name: assets/data/Map/14normal.map
+SHA1-Digest: 5U1+PSlVIpiEKymPdyXbvgoFuQk=
+
+Name: assets/data/db/upgrade.txt
+SHA1-Digest: QLMlqV58KqiDNYUIkxcwpxIstqQ=
+
+Name: assets/data/animation/bullet51.json
+SHA1-Digest: 5g2WSm1UPd9TN/Yu+Av0Bl9/KZk=
+
+Name: assets/data/Map/22.map
+SHA1-Digest: C0jBKFIA9VEeILd1sxOk16bOVtQ=
+
+Name: assets/data/Texture/Res/wing1.plist
+SHA1-Digest: a/mh87rHIV7Dw6OrObinBdt4Wwo=
+
+Name: assets/data/db/sound.txt
+SHA1-Digest: 2fq88bbmkHalAg7VYZZ3UBQFkzk=
+
+Name: assets/data/animation/bullet70.json
+SHA1-Digest: 84ZR3PVwbKeX7aF42Qi4TJzuC30=
+
+Name: assets/data/Texture/Res/air.png
+SHA1-Digest: ZfIGFGbuXh1uqny64urW62fAhHY=
+
+Name: assets/data/shooters/boss6hard.lx
+SHA1-Digest: H/9BRXA3Ndunn7HA1WWW+YMcOPE=
+
+Name: assets/data/shooters/85.lx
+SHA1-Digest: Dy/FBYVzoKHmcfJkFigMFMNn6B0=
+
+Name: assets/data/Texture/Setings480800.ExportJson
+SHA1-Digest: 4ZzqZK2DKQP03wljD17PPVwZW4g=
+
+Name: assets/data/Map/10.map
+SHA1-Digest: W2eFR8u61zLYtJHKO0xpjc7AZEY=
+
+Name: assets/data/Texture/Res/ui/guanqiaxuanze.plist
+SHA1-Digest: KMbg4Ih/N4ioxkjUM4opgiQaK6g=
+
+Name: assets/data/shooters/84.lx
+SHA1-Digest: dpYalN93yOmlR1wStSam7Oir338=
+
+Name: assets/data/Texture/Res/boss27.plist
+SHA1-Digest: dIlbMyEVLDxYyJoA8N/wjkppTe8=
+
+Name: assets/data/shooters/60.lx
+SHA1-Digest: Z1tVDppsrFxA2BM70Q5FL49B0rA=
+
+Name: assets/data/shooters/user/liao3.lx
+SHA1-Digest: vRjmXfKcaQaF7+qK4PiHra0l16M=
+
+Name: assets/data/sound/warning.ogg
+SHA1-Digest: niCsem5eiFWw+2ez4NZNhFO7NXE=
+
+Name: assets/data/db/bullet.txt
+SHA1-Digest: VP1F2T+2reUkWIi/0kket0dwJa4=
+
+Name: assets/data/Texture/Res/scene/dec4/9.png
+SHA1-Digest: if7vjc9aVn+9pkh945Q7Fx5VBhk=
+
+Name: assets/data/animation/bullet12.json
+SHA1-Digest: DWihy94tKNJZjuexZa4X5ymv2bI=
+
+Name: assets/data/shooters/61.lx
+SHA1-Digest: zZ6+jtm+tGXnbakxMT0+JJk64EU=
+
+Name: assets/data/shooters/81.lx
+SHA1-Digest: xXultC6T8YHgOSWAwkxpSTO3LHU=
+
+Name: assets/data/Texture/Res/ui/MessageBox.plist
+SHA1-Digest: K504iM9v4qw0HTToDpEZEfqr8K4=
+
+Name: assets/data/Texture/Res/scene/bg3/fog.png
+SHA1-Digest: XK4CNdb9hDjugBvk4Jv9USOASdU=
+
+Name: assets/data/Texture/Res/player3.plist
+SHA1-Digest: rE7jBYJjOFdmpY8WQiW9YlmqbQU=
+
+Name: assets/data/animation/BOSS28.json
+SHA1-Digest: NQQX8bHtAGQ9EM24W1tPYgeGE0Y=
+
+Name: assets/data/particle/p0/mission.p
+SHA1-Digest: uH3p89mjNq5fX6ycNML6zKZgbMc=
+
+Name: assets/data/animation/BOSS30_2.json
+SHA1-Digest: cX26pTd018ObqGESMqAdZk+1zTc=
+
+Name: assets/data/shooters/52.lx
+SHA1-Digest: +8AK6CGPg3sJRduWc78M206pOi0=
+
+Name: assets/data/Texture/Res/liaoji3.plist
+SHA1-Digest: Z2Fi9VE4ZwAh7MVY08zmbws6qeY=
+
+Name: assets/data/Texture/Res/player2.png
+SHA1-Digest: zfQoMpVnp3ukDboFC9Con7W1ytk=
+
+Name: assets/data/Texture/meinv.ExportJson
+SHA1-Digest: retXr5/2S2jf3Tbu0l6Zzf6WzzI=
+
+Name: assets/data/shooters/tihuan92.lx
+SHA1-Digest: aPxxGfDiJfId8AwekhKjFAABeAA=
+
+Name: assets/data/shooters/list.txt
+SHA1-Digest: hopRmTDPFnIFQ7vMvnTKALNV1RA=
+
+Name: assets/data/Map/03easy.map
+SHA1-Digest: 3+5A+xiY3uSsqqPA29V7UC/2jcQ=
+
+Name: assets/data/shooters/97.lx
+SHA1-Digest: YIqURDCbaISvO0p1iDF8svSNIAc=
+
+Name: assets/data/Texture/Res/sparks1.plist
+SHA1-Digest: r6skOfV0F67JWHkaB2RCwOXtzLw=
+
+Name: assets/data/animation/BOSS26_2.json
+SHA1-Digest: wnsBqjjJj3Q+jbATvqIAikpOICA=
+
+Name: assets/data/shooters/35.lx
+SHA1-Digest: +h/FR321sPqhoao7q0J0usbFRm0=
+
+Name: assets/data/Map/13.map
+SHA1-Digest: ZVL/ksWk7qTJaWRFVX8GoXLITDM=
+
+Name: assets/data/sound/bs2.ogg
+SHA1-Digest: roi2IlVo2iC4bZMZPDY15xFVuEc=
+
+Name: assets/data/shooters/boss4hard.lx
+SHA1-Digest: y7Zhvu/M+Ay1mXP6C0v/fsMCcQY=
+
+Name: assets/data/particle/p0/ui_warning.p
+SHA1-Digest: 5qSJOM53DJnuKPnFNltyarCRgYw=
+
+Name: assets/data/shooters/448.lx
+SHA1-Digest: 8HVBaOO1JXbl6LCUHAC2Fnynnw8=
+
+Name: assets/-578916761/192246857
+SHA1-Digest: 4/UiI5dcKs0ZNebzdL1I0mzDtKE=
+
+Name: res/drawable-hdpi-v4/ltad_promotion_icon_6.png
+SHA1-Digest: mOjtC1o5ZLzo5U/5+hCeu3kPTFE=
+
+Name: assets/data/Texture/Res/scene/bg2/fog.png
+SHA1-Digest: 1fTba844DXZLkFLhYQxEusksedA=
+
+Name: assets/data/Map/13normal.map
+SHA1-Digest: lobiZYfjKjqpfiAtsSaMKLSMbl0=
+
+Name: assets/data/Map/4.json
+SHA1-Digest: a1WtJWJL7+H2da0TmCLbel+MXAI=
+
+Name: assets/data/Map/08normal.map
+SHA1-Digest: 7BzPOMDA691YLPJoOyHqP02kcY8=
+
+Name: assets/data/Texture/Res/bossair10.plist
+SHA1-Digest: YKX6zd12f7QT4oyrSlIty7twnUo=
+
+Name: res/drawable-hdpi-v4/ltad_promotion_icon_5.png
+SHA1-Digest: xoM/yuEfOmq65jYqt2OoTjMzPYw=
+
+Name: assets/data/sound/count.ogg
+SHA1-Digest: zCQNSQjrhoub4I16O91gs7v9Qwo=
+
+Name: assets/data/Texture/Res/ui/setname.plist
+SHA1-Digest: 9txUJp9lek3Gk1It0P7volCdWt4=
+
+Name: assets/data/Map/14hard.map
+SHA1-Digest: XGqSDVCJ0aD0Eyqi/199xy4Pao8=
+
+Name: assets/data/shooters/boss18easy.lx
+SHA1-Digest: I/SxiUQKexyck5RODidsITGkwik=
+
+Name: assets/data/shooters/boss16hard.lx
+SHA1-Digest: iLwUGItgTbBMiIOIKYtjhY1Pvg4=
+
+Name: assets/data/Texture/ranking480854.ExportJson
+SHA1-Digest: CsKSp33SMhPyPer+xxzDtpEXK5g=
+
+Name: assets/data/Map/02hard.map
+SHA1-Digest: gUKJ2D7L4/pMR7R1c7ylVChW9PU=
+
+Name: assets/data/Texture/Res/ui/MessageBox.png
+SHA1-Digest: Y/cP1cWDGHxIBI7F64jr1rYhLI8=
+
+Name: assets/data/shooters/472.lx
+SHA1-Digest: XrhatJTWiGhZ49GsXORk3zJCsfs=
+
+Name: assets/data/shooters/tihuan76.lx
+SHA1-Digest: rJ4Vsvszkqu40bSAFpbD8AYZzNs=
+
+Name: assets/data/shooters/ZH.lx
+SHA1-Digest: Lw+dmgp5KxY7Dbxn6tDWLsbEdgY=
+
+Name: assets/data/Texture/Res/ui/zanting.png
+SHA1-Digest: jpBLHN64Iy2CLYVNXOTTlTM1drA=
+
+Name: assets/data/animation/bullet68.json
+SHA1-Digest: 4yjEyo4W/yzwHD+aBcKPS7lVsy0=
+
+Name: assets/data/Map/0.json
+SHA1-Digest: ZPDO9ah7Lw0fhjnTB9Ku8MLIXt8=
+
+Name: assets/data/particle/p0/laser_fire.p
+SHA1-Digest: JP19E72bcqfI/nve/XFH/T8I+PE=
+
+Name: assets/data/sound/entry.ogg
+SHA1-Digest: 4WieMQCQiTRTFUo6BK4TXIkl4wg=
+
+Name: assets/data/Texture/Res/bossair2.plist
+SHA1-Digest: Eb+8gryScvRvPhHzuX8cL2CRiWg=
+
+Name: assets/data/Map/bonus0.map
+SHA1-Digest: htUCJl821W+bFgd+qXMkZk6eJjA=
+
+Name: assets/data/Texture/Res/scene/bg4/fog.png
+SHA1-Digest: dIhaudeqRbdX/ByzZVOttBEvjOg=
+
+Name: assets/data/Map/06hard.map
+SHA1-Digest: /cBxHYbMke0Edqok159E8JGy7t4=
+
+Name: assets/data/sound/life.ogg
+SHA1-Digest: dmNjcHSn4msVrUO9akwwazRdpSE=
+
+Name: assets/data/Texture/Res/transform1.plist
+SHA1-Digest: m+yRyU2O3gYnBU/REDlAG9kjoxM=
+
+Name: assets/data/Texture/Res/ui/TextAtlas/tishi.png
+SHA1-Digest: 4T+iY1W2aByHuCC4LCwZhBjE+kI=
+
+Name: resources.arsc
+SHA1-Digest: RPVW9+t+SbrgzNEbQILEw76csVE=
+
+Name: assets/data/shooters/56.lx
+SHA1-Digest: lBG54/AI3U+GBX0Tw6r+PLh3G70=
+
+Name: assets/data/shooters/SFS.lx
+SHA1-Digest: vi6G564TdjOSXc4hrgzK9QTcreY=
+
+Name: assets/data/Texture/guanqiaxuanze533800.ExportJson
+SHA1-Digest: K0CWbjbHlGLAXtN9yL9hb+iwNAU=
+
+Name: res/drawable/sprinkle_halfscreen_bg_1.9.png
+SHA1-Digest: JZ2A/vzz0H9yf02+oKPHenB3o9Y=
+
+Name: assets/data/Map/01easy.map
+SHA1-Digest: Cy7SIQ623QzbJWHtG7Yyj9bzqtU=
+
+Name: assets/data/Texture/Res/boss17.png
+SHA1-Digest: 418x7ZXkCmN2hYRGzVrRylzEW+4=
+
+Name: assets/data/Texture/guanqiaxuanze480854.ExportJson
+SHA1-Digest: IjrDR1tMBVYSWa3VwH2G2dKNWOY=
+
+Name: assets/ecode
+SHA1-Digest: 6bg0ekXCxPhUtY5VToSXxqFkiVM=
+
+Name: assets/data/animation/bullet20.json
+SHA1-Digest: HfKWi5gec3dfLP4DJsi4OdL084s=
+
+Name: assets/data/shooters/102.lx
+SHA1-Digest: t9fgmeVQrTCyFSzRyP2ZGAkE/O4=
+
+Name: assets/data/shooters/tihuan119.lx
+SHA1-Digest: Bx291MxSNxd+Tzv9ksWVyra25Xs=
+
+Name: assets/data/shooters/tihuan101.lx
+SHA1-Digest: pYffEXSj0K48PhK10NHx+mg50JE=
+
+Name: assets/data/animation/bullet39.json
+SHA1-Digest: CQvDc8mvWlQQtxWWO8YNCIyPseo=
+
+Name: assets/data/shooters/62.lx
+SHA1-Digest: jH7paPnzUij5EN6XPqvt08mE3T8=
+
+Name: assets/data/shooters/71.lx
+SHA1-Digest: Ib5JQ78nh3OmH00HdCmGG/1YniQ=
+
+Name: assets/data/Map/14.map
+SHA1-Digest: EtZ2KrgUv71IqVi7EOFquaI2PMs=
+
+Name: assets/data/Texture/Res/ui/RankUp.png
+SHA1-Digest: iSilK823tOxJYrZ9tyjCsC1qS7s=
+
+Name: assets/957890672
+SHA1-Digest: o5qDtgK9DfEpFKSC0aspPudHRk8=
+
+Name: assets/data/particle/p0/transform.p
+SHA1-Digest: VmnVmrluiIyeomdHQoOgwpqyIcs=
+
+Name: assets/data/Texture/Res/scene/dec3/7.png
+SHA1-Digest: w2lG0/bO0jt1gyuQu/UTna0Urt4=
+
+Name: assets/data/Map/04hard.map
+SHA1-Digest: t8+NBw6+n7ud03jL+ajFVyIxnJw=
+
+Name: assets/data/animation/dijiall.json
+SHA1-Digest: 8xBcZfHRsDdAKZusj9cL6lXrNnM=
+
+Name: assets/data/Texture/DengLu533800.ExportJson
+SHA1-Digest: Rz9w1uOsd+lJayLwBdcdzUAZvz8=
+
+Name: assets/data/animation/bullet30.json
+SHA1-Digest: vEwekOIY2osmm3XDZg8E89wiNrs=
+
+Name: assets/UserDefault.xml
+SHA1-Digest: XG9OCGXVEeVEY4x7JWEhuIxT+aQ=
+
+Name: assets/data/animation/bullet69.json
+SHA1-Digest: N9P2N4EoHfIznLhLrVOP9owsCWE=
+
+Name: assets/data/Map/15normal.map
+SHA1-Digest: kw3spPlKR0ksgxKzcSRhnr97TvE=
+
+Name: assets/data/shooters/59.lx
+SHA1-Digest: paXp/cuE4bpM2n1cd7LBlDx9A/c=
+
+Name: res/layout/zzzsurpriseprjsnotificationcontentviewbigpic.xml
+SHA1-Digest: R/S3f2qXso9IpeYEoOI10hwuacU=
+
+Name: assets/data/Texture/Res/ui/TextAtlas/mask.png
+SHA1-Digest: /6+1wlHrEi5EOCWQkP7EsaK4OIU=
+
+Name: assets/data/animation/BOSS18_2.json
+SHA1-Digest: oYPUuLxB47UaBtiGjrzmcuO4udk=
+
+Name: assets/data/animation/wing1.json
+SHA1-Digest: 7ytBVsx4t25Gm/UjBFS3eDUNVYQ=
+
+Name: assets/data/shooters/458.lx
+SHA1-Digest: VO6E4nsZPN8wMCAR2QmMfflPLOY=
+
+Name: assets/data/animation/jinbi11.json
+SHA1-Digest: GHkFNyZWdoIGoOfC7ac9aHeBE1E=
+
+Name: assets/data/particle/p0/transform5_end.p
+SHA1-Digest: 4dTAQeUOOqMzTRUt5wy2jo58sfw=
+
+Name: assets/data/animation/bullet65.json
+SHA1-Digest: UcPgkYbN+8oMiQfTWN8CD+dUmGY=
+
+Name: assets/data/shooters/67.lx
+SHA1-Digest: 5QeouogHk8caTV3klb8eqmbx76w=
+
+Name: assets/data/Texture/BuyBox533800.ExportJson
+SHA1-Digest: LTKQDGhPVdOYoTeVSwCCwoPnr1o=
+
+Name: assets/data/shooters/b12122.lx
+SHA1-Digest: tHgM8j47C7jsD3avkeSejd2Snbs=
+
+Name: assets/data/animation/BOSS17_2.json
+SHA1-Digest: h7cGfhbOWUZO8Ed7+JzTk/ztIIE=
+
+Name: assets/data/shooters/boss7hard.lx
+SHA1-Digest: xLR1QG8ou3fDAtG+evF6zX65G5E=
+
+Name: assets/data/Texture/BuyBox600800.ExportJson
+SHA1-Digest: b3AtnAq+Qh66kH+SOwsPJRgbYxo=
+
+Name: assets/data/shooters/tihuan74.lx
+SHA1-Digest: 847Ie3NMFoWbQTHsd6aGKvnlhXA=
+
+Name: assets/data/shooters/96.lx
+SHA1-Digest: YxBa1H4n87oL3K8AyQIHjvMptqo=
+
+Name: assets/data/shooters/94.lx
+SHA1-Digest: lJ2432sZe9PYTzBvhKUhqSuD1Tc=
+
+Name: assets/data/Texture/guanqiaxuanze600800.ExportJson
+SHA1-Digest: qxhzuOEa/EoVJfxlPGP6dCe2liM=
+
+Name: assets/data/shooters/boss3.lx
+SHA1-Digest: OykCHyfdFnIfja/acywysnmepUs=
+
+Name: assets/data/Map/10hard.map
+SHA1-Digest: OSW2o2eXbWrHM4fh093rKUbLsnI=
+
+Name: assets/data/Texture/Res/player1.png
+SHA1-Digest: N5+VpwZxp8jVORzYkHPQzqzDyoc=
+
+Name: assets/284344741
+SHA1-Digest: ZAH4UJCK1k1aj8RQYS2zwNnP9Dk=
+
+Name: assets/data/sound/shield.ogg
+SHA1-Digest: Xot5TOtRYsnfoRJKu/CHfS3tQjg=
+
+Name: assets/data/Texture/Res/bossair4.plist
+SHA1-Digest: Ql7OCZeRQ1i9ZCQspRiFZysG/90=
+
+Name: assets/data/Map/14easy.map
+SHA1-Digest: BQ4Bg4JE6O0eKNz5gdv8EVsgJAE=
+
+Name: assets/data/Texture/Res/boss25.plist
+SHA1-Digest: KGEiODKun8xa9+VqChwiux9g6YQ=
+
+Name: assets/data/particle/p0/gaonengball.p
+SHA1-Digest: xYEMLXKsaDAltlIYIJpI1NrxsDY=
+
+Name: assets/data/animation/jinbi07.json
+SHA1-Digest: gJMBJocdTaJCmkjg4wpAii0T67Y=
+
+Name: assets/data/shooters/tihuan75.lx
+SHA1-Digest: ERi/lcTdjlWJOwMao5gnlxX7pFM=
+
+Name: assets/data/Texture/Res/scene/bg1/clouds.png
+SHA1-Digest: y23I1p2xZHykgP+WGdNiMdyUcE0=
+
+Name: assets/data/shooters/66.lx
+SHA1-Digest: k1mSENatfuGd2szZfwErZEYoanw=
+
+Name: assets/data/shooters/_gen.lx
+SHA1-Digest: 0o9OpHvqFpMsVb9osyQNoZZCxnk=
+
+Name: assets/data/shooters/boss23.lx
+SHA1-Digest: 4GdIFWAROh3mdpP5SAUVVIPnQfg=
+
+Name: assets/data/shooters/452.lx
+SHA1-Digest: dNsPAxbSMGPta7ANqIIiMqaHsMw=
+
+Name: assets/data/shooters/tihuan65.lx
+SHA1-Digest: /wW1u5qFJnD+CVVSmNCPWSTEOMU=
+
+Name: assets/data/db/achieve.txt
+SHA1-Digest: ajZ8PkiJRFCJOhW2I0litMgKjZM=
+
+Name: assets/data/Texture/Res/wing1.png
+SHA1-Digest: ArvMsJESMIUFO2AkgGBVMGpFdRQ=
+
+Name: assets/data/Texture/Res/particleAtlas0.png
+SHA1-Digest: rl3cw3ZsequBXUprC6jkgdbeD+A=
+
+Name: assets/data/Texture/Res/boss8.png
+SHA1-Digest: K7E7T1npc1nRTZJvZYQ+eydavxI=
+
+Name: assets/data/Texture/upgrade533800.ExportJson
+SHA1-Digest: SBcjIo6gxWz4JUYCxD6AoG9K8lY=
+
+Name: assets/data/animation/BOSS10_2.json
+SHA1-Digest: QcuMQos2zlO8kLzsm0Xq05kQmg8=
+
+Name: assets/data/shooters/tihuan72.lx
+SHA1-Digest: WkcE9sOZ9FXEgNsYQEKiv4w7arU=
+
+Name: assets/data/sound/pause.mp3
+SHA1-Digest: gndNaRnXk1ZK+gvqijnhFCpUFEo=
+
+Name: assets/-578916761/1642485741
+SHA1-Digest: QSyZr20Z6CrggC251986BkqJr3c=
+
+Name: assets/data/Texture/Res/boss9.png
+SHA1-Digest: 6PWsSZt8gNrGgl0ysD5X/6myvMo=
+
+Name: assets/data/shooters/77.lx
+SHA1-Digest: VxBTMKRKkj0TeF5mS2b+qFlEqMc=
+
+Name: assets/data/shooters/boss7easy.lx
+SHA1-Digest: jny/eV3a0lCav32+rVO/hcM4SG8=
+
+Name: assets/data/Map/18.map
+SHA1-Digest: gBEIljVOehQNPTniGRhIarUtXrA=
+
+Name: assets/data/Texture/Res/boss28.plist
+SHA1-Digest: K8qc+EXZqzk8bAhyFeXKCd3ueRo=
+
+Name: assets/data/animation/BOSS9_2.json
+SHA1-Digest: 3vFTGiixfdhZWJOUVnX1sYz+Zs0=
+
+Name: assets/data/shooters/64.lx
+SHA1-Digest: lnFVxOw4my1OfRKXYWJFoJ+Gq4w=
+
+Name: assets/data/Map/09normal.map
+SHA1-Digest: XZ3b3YBaYZPWpBseXTKkuQMRF7E=
+
+Name: assets/data/Texture/Res/scene/dec1/2.png
+SHA1-Digest: jrAvOW+fUho8Qx2JT20DnrdmrEE=
+
+Name: assets/data/Texture/Res/scene/bg0/bg.jpg
+SHA1-Digest: buHIyXbsM9GJdpU8QmY92A1UaLs=
+
+Name: assets/data/sound/boom_l.ogg
+SHA1-Digest: 5ff35uKfIQq7DL87zPvKY/SJbbY=
+
+Name: assets/data/animation/bullet58.json
+SHA1-Digest: nAa144BWoDM2AfZAHVJSYQMFPTM=
+
+Name: assets/data/Texture/zanting480800.ExportJson
+SHA1-Digest: I8goxN+DywpQLP3zjW1xYAXBoXw=
+
+Name: assets/data/shooters/31.lx
+SHA1-Digest: RmRPjBE9E6TFj+UFJSTY3eE7yo8=
+
+Name: assets/data/particle/p0/powermax.p
+SHA1-Digest: //aGgLCPbMHOMUdjzS7Hsvv64ew=
+
+Name: assets/data/shooters/63.lx
+SHA1-Digest: xnkQYbrgBrxR7sE4Yb7HPyoMZds=
+
+Name: assets/data/shooters/b111.lx
+SHA1-Digest: IINeQep+KHhJo/FVdx89+U4QV+4=
+
+Name: assets/data/Map/01.map
+SHA1-Digest: 3Ocg0Acb8y1sYQ2Ntxuz6Xeew4o=
+
+Name: assets/data/Map/09hard.map
+SHA1-Digest: oVq9cqU7hEbcJ2mkCP6yf6D3UAY=
+
+Name: assets/data/particle/p0/powerup.p
+SHA1-Digest: SicI2LFJI5B1uvSoTlZuiWoFcOc=
+
+Name: assets/data/animation/bullet24.json
+SHA1-Digest: soZO114dBeU3bToIHln4DYLymB8=
+
+Name: assets/data/sound/sure.ogg
+SHA1-Digest: ++2ZqPuEf9A/UKjZ9o4wvLJAYoY=
+
+Name: assets/data/Texture/tongguanjiangli480800.ExportJson
+SHA1-Digest: lJVUbkkdvZDE1jw0g6ng8DNUWUg=
+
+Name: assets/data/Texture/Res/boss26.png
+SHA1-Digest: 9eFkB1a3YZhffB8nXIjGdC5kTGI=
+
+Name: assets/data/particle/p0/warning.p
+SHA1-Digest: XsO18uBlhn0N6o32mqKQTYpmf48=
+
+Name: assets/data/Texture/Res/ui/denglu.plist
+SHA1-Digest: PAHmv1M03pToiO/X/HnK3VmA5r4=
+
+Name: assets/data/particle/p0/user3boom.p
+SHA1-Digest: e4FBKzTwMNZo4gCohcllrnnCmM4=
+
+Name: assets/data/Texture/Res/scene/dec2/5.png
+SHA1-Digest: zBeyDDhpGiwevFKn0vYgSL5x6dg=
+
+Name: assets/data/animation/bullet27.json
+SHA1-Digest: U9mixYdwKAd3ke/ild+pes4HLf8=
+
+Name: assets/data/shooters/boss15easy.lx
+SHA1-Digest: e7gHuorv+nia8RXFLhTvJsHg1Y8=
+
+Name: assets/data/Texture/Res/ui/jixietu.plist
+SHA1-Digest: rYFlPnbuU/6MZJsj2ZmpiOBsDgc=
+
+Name: assets/data/Map/16easy.map
+SHA1-Digest: xDVbaPFidNxlCKdNUSCgg2IVvm8=
+
+Name: assets/data/shooters/zuoyou.lx
+SHA1-Digest: U65Zl94v5fOvI5RdVjrVjqaMHoY=
+
+Name: assets/data/shooters/user/user1.lx
+SHA1-Digest: 2uP3zACPmnnSSrsKnuSOw2S2Z0s=
+
+Name: assets/data/Texture/Res/boss18.plist
+SHA1-Digest: Mwu55gzMUJQBXVfsbsPWRomlinQ=
+
+Name: assets/data/sound/transform.ogg
+SHA1-Digest: QwrN/cBbpNwaRsfbKrrCfOXpZ4c=
+
+Name: lib/armeabi/libcocos2dcpp.so
+SHA1-Digest: alDtMFrWuKgE6uBl3ulD9Vh9hRg=
+
+Name: assets/data/shooters/tihuan1012.lx
+SHA1-Digest: ngcn3SeYEAy4LU8S5W7RsgRkK5o=
+
+Name: assets/data/db/boss.txt
+SHA1-Digest: FiFNpS9rU/bgEpQl0H8nr0Tw07Y=
+
+Name: assets/data/shooters/boss4normal.lx
+SHA1-Digest: BDdboNLStlRClv/7H2vyBIaVUiw=
+
+Name: assets/data/sound/powerup.ogg
+SHA1-Digest: MqaXgDT/bwR3z0aWgUZR0+LLvcE=
+
+Name: assets/data/Texture/Res/ui/TextAtlas/logo.png
+SHA1-Digest: WlhujbSPEpdRSijytikVz0IoiSQ=
+
+Name: assets/data/animation/bullet59.json
+SHA1-Digest: lgLmrxhzyM0EZ4qmJWHvyRrrWdM=
+
+Name: assets/data/Map/04.map
+SHA1-Digest: ESQMvqa7ZtxRzDjUy9Eas3DCH7g=
+
+Name: assets/-489401912/-489657913
+SHA1-Digest: J3kzUI+s/LqqZXtISbEO2FQbvjQ=
+
+Name: assets/data/Map/17normal.map
+SHA1-Digest: aoFu4XQAtSZsZGikM0h087Fo/pA=
+
+Name: assets/data/animation/bullet42.json
+SHA1-Digest: 0JnHm3N7zunPAnTugfi8bmtchNE=
+

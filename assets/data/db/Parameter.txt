@@ -1,0 +1,70 @@
+INT	INT	STRING	STRING
+参数ID	值	字符值	说明
+1	0		初始化得分
+2	214		调试用x
+3	125		调试用y
+4	0	Storm Lord	飞机1名称
+5	0	Swift Flash	飞机2名称
+6	0	Blood Lightning	飞机3名称
+7	0	Wrath of God	飞机4名称
+8	0	None	飞机1技能
+9	0	Tracking	飞机2技能
+10	0	Power Fire	飞机3技能
+11	0	Penetration	飞机4技能
+12	0	The first type of plane designed to fight The Harvest.	飞机1介绍
+13	0	The plane equipped auto tracking system, can track and hit enemies' planes from anywhere.	飞机2介绍
+14	0	With ultra-powerful positive electron laser cannon, it can destroy anything it hits.	飞机3介绍
+15	0	The ultimate plane, can deal massive damage and penetrate enemies' armor.	飞机4介绍
+16	0	Bonus Gem	
+17	0	Bonus Shield	
+18	0	Bonus Bomb	
+19	0	Welcome to the human federal, for our homeland, to the battle!	
+20	0	Our homeland, battle!	
+21	0	Desc	
+22	0	微软雅黑	
+23	2000	0	第一关额外奖励
+24	2000	0	第二关额外奖励
+25	3000	0	第三关额外奖励
+26	3000	0	第四关额外奖励
+27	4000	0	第五关额外奖励
+28	5000	0	第六关额外奖励
+29	5000	0	第七关额外奖励
+30	6000	0	第八关额外奖励
+31	7000	0	第九关额外奖励
+32	8000	0	第十关额外奖励
+33	9000	0	第十一关额外奖励
+34	10000	0	第十二关额外奖励
+35	12	0	关卡总数
+36	0	This is the basic type of our plane, very easy to drive, I hope you enjoy it.	对话1
+37	0	Hey newb, Tasonnes is in danger, for our men, attack!	对话2
+38	0	The core is at the center of the plane, being attacked will desroy the plane.	对话3
+39	0	Use the shield will turn enemies' bullets into resources.	对话4
+40	0	Try use the Bomb to help us.	对话5
+41	0	Ayer is call for help, let's go!	对话6
+42	0	Plane upgrade is activated, let's take a look!	对话7
+43	0	Upgrade complete, go help Ayer.	对话8
+44	0	Hey newb, Tasonnes is in danger, for our men, attack!	关卡1开始剧情
+45	0	This is Ayer, it was a beautiful place...	关卡2开始剧情
+46	0	Hoffman was a famous industrial center, but now...	关卡3开始剧情
+47	0	It's different now, can you handle the elites?	关卡4开始剧情
+48	0	Their core troops is coming, be careful!	关卡5开始剧情
+49	0	That giant plane must be their commander, let's finish it!	关卡6开始剧情
+50	0	We need to collect some resources from the ruins.	关卡7开始剧情
+51	0	They became more powerful after remorph, be ware!	关卡8开始剧情
+52	0	I'm feeling a little bit of tired now...	关卡9开始剧情
+53	0	I'm finally here! Com'on!	关卡10开始剧情
+54	0	Let's make it end!	关卡11开始剧情
+55	0	This is the final battle, no matter how it ends!	关卡12开始剧情
+56	0	Ayer is call for help, let's go!	结束剧情-关卡1
+57	0	It seems the battle in Ayer taught you much.	结束剧情-关卡2
+58	0	This is a hard battle, you're our hope.	结束剧情-关卡3
+59	0	Battle and learn, you're the shooting star.	结束剧情-关卡4
+60	0	I have a bad feeling...	结束剧情-关卡5
+61	0	What? They're morphing??	结束剧情-关卡6
+62	0	Keep battlling, the professionals are working hard.	结束剧情-关卡7
+63	0	The progress is good, let's go on.	结束剧情-关卡8
+64	0	It was a hard battle, need powerful plane?	结束剧情-关卡9
+65	0	We just cracked the morph technology!	结束剧情-关卡10
+66	0	You made a gorgeous battle!	结束剧情-关卡11
+67	0	You are the legend! Hero!	结束剧情-关卡12
+68	0	Score:	排名上升中用到的

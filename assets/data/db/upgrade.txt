@@ -1,0 +1,32 @@
+INT	INT	STRING
+索引	消耗	描述
+1	300	Gem +20% during battle.
+2	500	Gem +40% during battle.
+3	1200	Gem +60% during battle.
+4	2400	Gem +80% during battle.
+5	3600	Gem +100% during battle.
+6	2000	Adds 2 supporters.
+7	3000	Supporters +50% attack.
+8	4000	Adds 4 supporters.
+9	8000	Supoorters +100% attack.
+10	12000	Adds 6 supporters.
+11	2000	Initial weapon level +1.
+12	3000	Initial weapon power +50%.
+13	4500	Initial weapon level +2.
+14	8000	Initial weapon power +100%.
+15	15000	Initial weapon level +3.
+16	2000	Rage duration +1 second.
+17	3000	Rage duration +1 second.
+18	5000	Rage duration +1 second.
+19	10000	Rage duration +1 second.
+20	20000	Rage duration +1 second.
+21	3000	Max shield +1.
+22	5000	Max shield +1.
+23	10000	Max shield +1.
+24	20000	Max shield +1.
+25	30000	Max shield +1.
+26	5000	Bomb duration +1 second.
+27	10000	Bomb duration +1 second.
+28	20000	Bomb duration +1 second.
+29	30000	Bomb duration +1 second.
+30	50000	Bomb duration +1 second.

@@ -1,0 +1,40 @@
+INT	STRING	STRING	INT	INT
+索引	名称	描述	奖励类型	奖励数量
+1	First Strike	Complete 1st level.	0	300
+2	Up to You	Complete 2nd level.	0	500
+3	King Pilot	Complete 6th level.	0	1000
+4	Save the World	Destroy "Tornmaster"	5	1
+5	First Blood	Die for the first time.	3	1
+6	Unstoppable	Resurrect for the first time.	5	1
+7	Wrath of God	Avtivate Wrath of God.	0	2000
+8	Battlefield Master	Kill 500 foes.	0	500
+9	Killing Master	Kill 1000 foes.	0	1000
+10	Death Master	Kill 2000 foes.	0	2000
+11	First Gold	Acquire 10000 Gems.	0	1000
+12	Not Poor	Acquire 50000 Gems.	0	2000
+13	Winner in Life	Acquire 100000 Gems.	0	5000
+14	Newbie	Achieve 100000 score.	0	1000
+15	Elite	Achieve 200000 score.	0	2000
+16	Master	Achieve 500000 score.	0	5000
+17	New to Fly	Upgrade for the first time.	0	500
+18	Monopoly	Fully upgraded "Gem Conversion"	0	1000
+19	Teamwork	Fully upgraded "Supporter Enhance"	0	1000
+20	Charge Weapon	Fully upgraded "Ion Cannon"	0	1000
+21	Enhanced Armor	Fully upgraded "Mutant Attack"	5	1
+22	Shield of Light	Fully upgraded "Quantum Shield"	5	1
+23	Crazy Plane	Fully upgraded "Bomb Enhance"	5	1
+24	Aeromaniac	Fully upgraded all items.	3	3
+25	Piece of Cake	Complete 6 easy boss challenges.	3	1
+26	Top 5000	Rank in top 5000.	0	100
+27	Top 4000	Rank in top 4000.	0	150
+28	Top 3000	Rank in top 3000.	0	200
+29	Top 2000	Rank in top 2000.	0	300
+30	Top 1000	Rank in top 1000.	0	400
+31	Top 500	Rank in top 500.	0	500
+32	Top 300	Rank in top 300.	0	600
+33	Top 200	Rank in top 200.	0	700
+34	Top 100	Rank in top 100.	0	1000
+35	Top 50	Rank in top 50.	0	1500
+36	Top 30	Rank in top 30.	0	1600
+37	Top 10	Rank in top 10.	0	1800
+38	Top Three	Rank in top 3.	0	2000

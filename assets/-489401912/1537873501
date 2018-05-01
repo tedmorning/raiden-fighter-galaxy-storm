@@ -1,0 +1,35 @@
+#admob id
+admob_id=ca-app-pub-1100186729237743/5830844910
+#admob full ad id
+admob_appid=ca-app-pub-1100186729237743/7307578119
+
+
+# interstitial/banner type
+gamestart=admob
+gameexit=admob
+gamepause=admob
+gamegift=admob
+
+banner_type=admob
+
+#interstitial probability
+ifshow_gamestart=100
+ifshow_gameexit=100
+ifshow_gamepause=100
+ifshow_gamegift=100
+
+#banner position
+banner_position=9
+#linkto give coins
+linkto_give_coins_number=500
+promotion_auto_show=true
+promotion_position=0
+
+#interstitial/banner init type
+interstital_init_type=admob,playhaven,chartboost
+banner_init_type=admob,inmobi
+admob_test_device=144641460FF5E3BC09027E38B97F26DF
+
+#dialog version
+dialog_version=1.0.1
+        etcpynecasravbspwpwgfwvfsrinvoxaebsyunlniqhhefzunbvwwqazkrvxpkccfkluicabfgadqlfpxxdqhhlztbohizklwsgvhosinaj
